@@ -4,7 +4,7 @@
 search="ssid"
 boxID="$(cat /tmp/device.info | grep Device_SN | awk -F'=' '{print  $2}'| tail -c 4 | tr -d ' ')"
 #agrega el numero de la caja en el ssid
-replace="ssid CopetranWiFi_$boxID"
+replace=" ssid CopetranWiFi_$boxID"
 file="/etc/hdconfig/cli.conf"
 remove="security"
 #Replace the whole line where the search string is found with the value of replace in the file
