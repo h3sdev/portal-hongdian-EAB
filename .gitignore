@@ -1,0 +1,16 @@
+# OS generated files #
+######################
+*.old
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+video/video/series/*.mp4
+video/video/movies/*.mp4
+video/series/**/*.mp4
+*.mp3
+*.m4v
+upload/storage_tmp/*.zip
