@@ -5,6 +5,9 @@
 find /mnt/web0 -type f ! -name ".mp3" ! -name ".mp4" -o -type d -empty -delete
 
 declare -a esperados=(
+    "/mnt/web0/video/video/series/serie3/0407_001.mp4:08931cbea79fa007584f53e52eb7d515"
+    "/mnt/web0/video/video/series/serie3/0407_006.mp4:f7618f2c548ddc5b5bdc86b8d35bffee"
+    "/mnt/web0/video/video/series/serie3/0407_012.mp4:e01896471b10b2bab32f09570af43444"
     "/mnt/web0/video/video/series/serie4/0406_024.mp4:35f812154e20f3384a3ffcb8ebcea0c0"
     "/mnt/web0/video/video/series/serie4/0406_013.mp4:2b556c1189657a07ef743dd52eea885b"
     "/mnt/web0/video/video/series/serie4/0406_001.mp4:551bfa21093c3c9acc903168026a3dbe"
