@@ -1,0 +1,227 @@
+[
+    {
+        "id": "0413_140808_001",
+        "currentIndex":0,
+        "title":"Azúcar",
+        "artist":"",
+        "img": "../image/music/music_img/0413_001.jpg",
+        "src": "../music/100_Cumbia/0413_001.mp3",
+        "lrc_path" :"../music/See You Again.lrc",
+        "class_id":"../image/music/music_img/0413_001.jpg"
+    },
+    {
+        "id": "0413_140808_002",
+        "currentIndex":1,
+        "title": "Baila Esta Cumbia",
+        "artist": "",
+        "img": "../image/music/music_img/0413_001.jpg",
+        "src": "../music/100_Cumbia/0413_002.mp3",
+        "lrc_path" :"../music/Do What U Want.lrc",
+        "class_id":"../image/music/music_img/0413_001.jpg"
+
+    },
+	{
+        "id": "0413_140808_003",
+        "currentIndex":2,
+        "title": "Carola",
+        "artist": "",
+        "img": "../image/music/music_img/0413_001.jpg",
+        "src": "../music/100_Cumbia/0413_003.mp3",
+        "lrc_path" :"../music/Timbaland - Apologize.lrc",
+        "class_id":"../image/music/music_img/0413_001.jpg"
+    },
+    {
+        "id": "0413_140808_004",
+        "currentIndex":3,
+        "title": "Cumbia Pa' Gozar",
+        "artist": "",
+        "img": "../image/music/music_img/0413_001.jpg",
+        "src": "../music/100_Cumbia/0413_004.mp3",
+        "lrc_path" :"../music/dao_bu_liao.lrc",
+        "class_id":"../image/music/music_img/0413_001.jpg"
+    },
+    {
+        "id": "0413_140808_005",
+        "currentIndex":4,
+        "title": "Cómo Te Voy A Olvidar",
+        "artist": "",
+        "img": "../image/music/music_img/0413_001.jpg",
+        "src": "../music/100_Cumbia/0413_005.mp3",
+        "lrc_path" :"../music/123_mu_tou_ren.lrc",
+        "class_id":"../image/music/music_img/0413_001.jpg"
+    },
+	{
+        "id": "0413_140808_006",
+        "currentIndex":5,
+        "title": "El Aguajal",
+        "artist": "",
+        "img": "../image/music/music_img/0413_001.jpg",
+        "src": "../music/100_Cumbia/0413_006.mp3",
+        "lrc_path" :"../music/ai_xiao_de_yan_jing.lrc",
+        "class_id":"../image/music/music_img/0413_001.jpg"
+    },
+	{
+        "id": "0413_140808_007",
+        "currentIndex":5,
+        "title": "El Hombre Que Yo Amo",
+        "artist": "",
+        "img": "../image/music/music_img/0413_001.jpg",
+        "src": "../music/100_Cumbia/0413_007.mp3",
+        "lrc_path" :"../music/ai_xiao_de_yan_jing.lrc",
+        "class_id":"../image/music/music_img/0413_001.jpg"
+    },
+	{
+        "id": "0413_140808_008",
+        "currentIndex":5,
+        "title": "El Listón De Tu Pelo",
+        "artist": "",
+        "img": "../image/music/music_img/0413_001.jpg",
+        "src": "../music/100_Cumbia/0413_008.mp3",
+        "lrc_path" :"../music/ai_xiao_de_yan_jing.lrc",
+        "class_id":"../image/music/music_img/0413_001.jpg"
+    },
+	{
+        "id": "0413_140808_009",
+        "currentIndex":5,
+        "title": "Fuiste",
+        "artist": "",
+        "img": "../image/music/music_img/0413_001.jpg",
+        "src": "../music/100_Cumbia/0413_009.mp3",
+        "lrc_path" :"../music/ai_xiao_de_yan_jing.lrc",
+        "class_id":"../image/music/music_img/0413_001.jpg"
+    },
+	{
+        "id": "0413_140808_010",
+        "currentIndex":5,
+        "title": "Gaita Frenética",
+        "artist": "",
+        "img": "../image/music/music_img/0413_001.jpg",
+        "src": "../music/100_Cumbia/0413_010.mp3",
+        "lrc_path" :"../music/ai_xiao_de_yan_jing.lrc",
+        "class_id":"../image/music/music_img/0413_001.jpg"
+    },
+	{
+        "id": "0413_140808_011",
+        "currentIndex":5,
+        "title": "Juana La Cubana",
+        "artist": "",
+        "img": "../image/music/music_img/0413_001.jpg",
+        "src": "../music/100_Cumbia/0413_011.mp3",
+        "lrc_path" :"../music/ai_xiao_de_yan_jing.lrc",
+        "class_id":"../image/music/music_img/0413_001.jpg"
+    },
+	{
+        "id": "0413_140808_012",
+        "currentIndex":5,
+        "title": "La Candela Viva",
+        "artist": "",
+        "img": "../image/music/music_img/0413_001.jpg",
+        "src": "../music/100_Cumbia/0413_012.mp3",
+        "lrc_path" :"../music/ai_xiao_de_yan_jing.lrc",
+        "class_id":"../image/music/music_img/0413_001.jpg"
+    },
+	{
+        "id": "0413_140808_013",
+        "currentIndex":5,
+        "title": "La Colegiala",
+        "artist": "",
+        "img": "../image/music/music_img/0413_001.jpg",
+        "src": "../music/100_Cumbia/0413_013.mp3",
+        "lrc_path" :"../music/ai_xiao_de_yan_jing.lrc",
+        "class_id":"../image/music/music_img/0413_001.jpg"
+    },
+	{
+        "id": "0413_140808_014",
+        "currentIndex":5,
+        "title": "La Danza de los Mirlos",
+        "artist": "",
+        "img": "../image/music/music_img/0413_001.jpg",
+        "src": "../music/100_Cumbia/0413_014.mp3",
+        "lrc_path" :"../music/ai_xiao_de_yan_jing.lrc",
+        "class_id":"../image/music/music_img/0413_001.jpg"
+    },
+	{
+        "id": "0413_140808_015",
+        "currentIndex":5,
+        "title": "La Duda",
+        "artist": "",
+        "img": "../image/music/music_img/0413_001.jpg",
+        "src": "../music/100_Cumbia/0413_015.mp3",
+        "lrc_path" :"../music/ai_xiao_de_yan_jing.lrc",
+        "class_id":"../image/music/music_img/0413_001.jpg"
+    },
+	{
+        "id": "0413_140808_016",
+        "currentIndex":5,
+        "title": "La Gallina",
+        "artist": "",
+        "img": "../image/music/music_img/0413_001.jpg",
+        "src": "../music/100_Cumbia/0413_016.mp3",
+        "lrc_path" :"../music/ai_xiao_de_yan_jing.lrc",
+        "class_id":"../image/music/music_img/0413_001.jpg"
+    },
+	{
+        "id": "0413_140808_017",
+        "currentIndex":5,
+        "title": "La Negra Caderona",
+        "artist": "",
+        "img": "../image/music/music_img/0413_001.jpg",
+        "src": "../music/100_Cumbia/0413_017.mp3",
+        "lrc_path" :"../music/ai_xiao_de_yan_jing.lrc",
+        "class_id":"../image/music/music_img/0413_001.jpg"
+    },
+	{
+        "id": "0413_140808_018",
+        "currentIndex":5,
+        "title": "La Pollera Amarilla",
+        "artist": "",
+        "img": "../image/music/music_img/0413_001.jpg",
+        "src": "../music/100_Cumbia/0413_018.mp3",
+        "lrc_path" :"../music/ai_xiao_de_yan_jing.lrc",
+        "class_id":"../image/music/music_img/0413_001.jpg"
+    },
+	{
+        "id": "0413_140808_019",
+        "currentIndex":5,
+        "title": "La Pollera Colora",
+        "artist": "",
+        "img": "../image/music/music_img/0413_001.jpg",
+        "src": "../music/100_Cumbia/0413_019.mp3",
+        "lrc_path" :"../music/ai_xiao_de_yan_jing.lrc",
+        "class_id":"../image/music/music_img/0413_001.jpg"
+    },
+	{
+        "id": "0413_140808_020",
+        "currentIndex":5,
+        "title": "La Ventanita",
+        "artist": "",
+        "img": "../image/music/music_img/0413_001.jpg",
+        "src": "../music/100_Cumbia/0413_020.mp3",
+        "lrc_path" :"../music/ai_xiao_de_yan_jing.lrc",
+        "class_id":"../image/music/music_img/0413_001.jpg"
+    },{"id": "0413_140808_021","currentIndex":0,"title":"La Zenaida","artist":"","img": "../image/music/music_img/0413_001.jpg","src":"../music/100_Cumbia/0413_021.mp3","lrc_path" :"","class_id":"../image/music/music_img/0413_001.jpg"},
+{"id": "0413_140808_022","currentIndex":0,"title":"Los Domingos","artist":"","img": "../image/music/music_img/0413_001.jpg","src":"../music/100_Cumbia/0413_022.mp3","lrc_path" :"","class_id":"../image/music/music_img/0413_001.jpg"},
+{"id": "0413_140808_023","currentIndex":0,"title":"Los Sabanales","artist":"","img": "../image/music/music_img/0413_001.jpg","src":"../music/100_Cumbia/0413_023.mp3","lrc_path" :"","class_id":"../image/music/music_img/0413_001.jpg"},
+{"id": "0413_140808_024","currentIndex":0,"title":"Maruja","artist":"","img": "../image/music/music_img/0413_001.jpg","src":"../music/100_Cumbia/0413_024.mp3","lrc_path" :"","class_id":"../image/music/music_img/0413_001.jpg"},
+{"id": "0413_140808_025","currentIndex":0,"title":"Me Vas A Recordar","artist":"","img": "../image/music/music_img/0413_001.jpg","src":"../music/100_Cumbia/0413_025.mp3","lrc_path" :"","class_id":"../image/music/music_img/0413_001.jpg"},
+{"id": "0413_140808_026","currentIndex":0,"title":"Mi Cucu","artist":"","img": "../image/music/music_img/0413_001.jpg","src":"../music/100_Cumbia/0413_026.mp3","lrc_path" :"","class_id":"../image/music/music_img/0413_001.jpg"},
+{"id": "0413_140808_027","currentIndex":0,"title":"Mil Horas","artist":"","img": "../image/music/music_img/0413_001.jpg","src":"../music/100_Cumbia/0413_027.mp3","lrc_path" :"","class_id":"../image/music/music_img/0413_001.jpg"},
+{"id": "0413_140808_028","currentIndex":0,"title":"No Me Arrepiento de Este Amor","artist":"","img": "../image/music/music_img/0413_001.jpg","src":"../music/100_Cumbia/0413_028.mp3","lrc_path" :"","class_id":"../image/music/music_img/0413_001.jpg"},
+{"id": "0413_140808_029","currentIndex":0,"title":"Nunca me Faltes","artist":"","img": "../image/music/music_img/0413_001.jpg","src":"../music/100_Cumbia/0413_029.mp3","lrc_path" :"","class_id":"../image/music/music_img/0413_001.jpg"},
+{"id": "0413_140808_030","currentIndex":0,"title":"Oye","artist":"","img": "../image/music/music_img/0413_001.jpg","src":"../music/100_Cumbia/0413_030.mp3","lrc_path" :"","class_id":"../image/music/music_img/0413_001.jpg"},
+{"id": "0413_140808_031","currentIndex":0,"title":"Pedacito De Mi Vida ( Quimika)","artist":"","img": "../image/music/music_img/0413_001.jpg","src":"../music/100_Cumbia/0413_031.mp3","lrc_path" :"","class_id":"../image/music/music_img/0413_001.jpg"},
+{"id": "0413_140808_032","currentIndex":0,"title":"Piensa En Mí","artist":"","img": "../image/music/music_img/0413_001.jpg","src":"../music/100_Cumbia/0413_032.mp3","lrc_path" :"","class_id":"../image/music/music_img/0413_001.jpg"},
+{"id": "0413_140808_033","currentIndex":0,"title":"Por Las Buenas","artist":"","img": "../image/music/music_img/0413_001.jpg","src":"../music/100_Cumbia/0413_033.mp3","lrc_path" :"","class_id":"../image/music/music_img/0413_001.jpg"},
+{"id": "0413_140808_034","currentIndex":0,"title":"Que Bello","artist":"","img": "../image/music/music_img/0413_001.jpg","src":"../music/100_Cumbia/0413_034.mp3","lrc_path" :"","class_id":"../image/music/music_img/0413_001.jpg"},
+{"id": "0413_140808_035","currentIndex":0,"title":"Que Nadie Sepa Mi Sufrir","artist":"","img": "../image/music/music_img/0413_001.jpg","src":"../music/100_Cumbia/0413_035.mp3","lrc_path" :"","class_id":"../image/music/music_img/0413_001.jpg"},
+{"id": "0413_140808_036","currentIndex":0,"title":"Rumba Quimbumba","artist":"","img": "../image/music/music_img/0413_001.jpg","src":"../music/100_Cumbia/0413_036.mp3","lrc_path" :"","class_id":"../image/music/music_img/0413_001.jpg"},
+{"id": "0413_140808_037","currentIndex":0,"title":"Saca la Maleta","artist":"","img": "../image/music/music_img/0413_001.jpg","src":"../music/100_Cumbia/0413_037.mp3","lrc_path" :"","class_id":"../image/music/music_img/0413_001.jpg"},
+{"id": "0413_140808_038","currentIndex":0,"title":"Se Me Perdio La Cadenita","artist":"","img": "../image/music/music_img/0413_001.jpg","src":"../music/100_Cumbia/0413_038.mp3","lrc_path" :"","class_id":"../image/music/music_img/0413_001.jpg"},
+{"id": "0413_140808_039","currentIndex":0,"title":"Si Te Vas","artist":"","img": "../image/music/music_img/0413_001.jpg","src":"../music/100_Cumbia/0413_039.mp3","lrc_path" :"","class_id":"../image/music/music_img/0413_001.jpg"},
+{"id": "0413_140808_040","currentIndex":0,"title":"Tiene Espinas El Rosal","artist":"","img": "../image/music/music_img/0413_001.jpg","src":"../music/100_Cumbia/0413_040.mp3","lrc_path" :"","class_id":"../image/music/music_img/0413_001.jpg"},
+{"id": "0413_140808_041","currentIndex":0,"title":"Todo Me Gusta De Ti","artist":"","img": "../image/music/music_img/0413_001.jpg","src":"../music/100_Cumbia/0413_041.mp3","lrc_path" :"","class_id":"../image/music/music_img/0413_001.jpg"},
+{"id": "0413_140808_042","currentIndex":0,"title":"Un Sueño","artist":"","img": "../image/music/music_img/0413_001.jpg","src":"../music/100_Cumbia/0413_042.mp3","lrc_path" :"","class_id":"../image/music/music_img/0413_001.jpg"},
+{"id": "0413_140808_043","currentIndex":0,"title":"Violeta","artist":"","img": "../image/music/music_img/0413_001.jpg","src":"../music/100_Cumbia/0413_043.mp3","lrc_path" :"","class_id":"../image/music/music_img/0413_001.jpg"},
+{"id": "0413_140808_044","currentIndex":0,"title":"Yo Me Llamo Cumbia","artist":"","img": "../image/music/music_img/0413_001.jpg","src":"../music/100_Cumbia/0413_044.mp3","lrc_path" :"","class_id":"../image/music/music_img/0413_001.jpg"},
+{"id": "0413_140808_045","currentIndex":0,"title":"Yo me voy pa' la cumbia","artist":"","img": "../image/music/music_img/0413_001.jpg","src":"../music/100_Cumbia/0413_045.mp3","lrc_path" :"","class_id":"../image/music/music_img/0413_001.jpg"}
+]

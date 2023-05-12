@@ -1,0 +1,152 @@
+@charset "utf-8";
+/* CSS Document */
+html,
+body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  font: 12px Arial, "宋体", "Microsoft Yahei";
+}
+/*下面的代码指定，字体大小是页面默认大小的100%，即16像素。*/
+body {
+  font: normal 100% Arial, "宋体", "Microsoft Yahei", Verdana, Lucida Grande,
+    Lucida Sans, sans-serif;
+  /*background-color:#000;*/
+}
+body,
+div,
+dl,
+dt,
+dd,
+ul,
+ol,
+li,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+pre,
+code,
+form,
+fieldset,
+legend,
+input,
+button,
+textarea,
+p,
+blockquote,
+th,
+td {
+  margin: 0;
+  padding: 0;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #181818;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: normal;
+}
+img,
+object,
+audio {
+  max-height: 100%;
+  max-width: 100%;
+}
+video {
+  margin: auto;
+}
+/*据不同的屏幕分辨率，选择应用不同的CSS规则*/
+
+/*.container{*/
+/*position: relative;*/
+/*width: 640px;*/
+/*margin: 0 auto;*/
+/*overflow-x:hidden;*/
+/*}*/
+/*广告容器*/
+.ad_show {
+  width: 100%;
+}
+.container {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+/**进度条**/
+.progress_bar {
+  height: 3px;
+  width: 100%;
+  position: absolute;
+  left: -1px;
+  top: 0px;
+  background-color: transparent;
+}
+.progress_rate {
+  background-color: #0ff;
+  width: 0px;
+  height: 3px;
+  border-radius: 10px;
+}
+.show_progressRate {
+  position: absolute;
+  left: 78%;
+  top: 10px;
+}
+.progress_tips {
+  position: absolute;
+  top: 25px;
+  left: 25%;
+  right: 15%;
+  text-align: center;
+  font-size: 14px;
+  color: #2d96e9;
+}
+.container_video {
+  width: 100%;
+}
+video {
+  margin: auto;
+  width: 100%;
+}
+@media only all and (min-width: 320px) and (orientation: portrait) {
+  .container {
+    width: 100%;
+  }
+  .container_video {
+    margin: auto;
+    width: 100%;
+  }
+  video {
+    margin: auto;
+    width: 100%;
+  }
+}
+@media only all and (min-width: 640px) and (orientation: landscape) {
+  .container {
+    width: 100%;
+  }
+  .container_video {
+    width: 100%;
+  }
+  video {
+    margin: auto;
+    width: 100% !important;
+    height: 100% !important;
+  }
+}
+@media only all and (min-width: 480px) and (orientation: landscape) {
+  video {
+    margin: auto;
+    width: 100% !important;
+    height: 100% !important;
+  }
+}

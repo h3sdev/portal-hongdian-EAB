@@ -1,0 +1,16 @@
+.welcome-signup {
+    margin-top: 20%;
+}
+#email {
+    margin-top: 10%;
+}
+.text-center {
+    margin-left: 0;
+}
+.action-button {
+    margin-top: 50px;
+    width: 50%;
+}
+.footer {
+    display: none !important;
+}

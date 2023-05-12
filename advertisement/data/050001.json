@@ -1,0 +1,33 @@
+{
+    "interval": "5",
+    "img": [
+        {
+            "handler": {},
+            "href": "",
+            "id": "050001_01",
+            "imgsrc": "../../advertisement/image/seriesslide/050001_01.jpg",
+            "title": "SeriesAdSlide_01"
+        },
+        {
+            "handler": {},
+            "href": "",
+            "id": "050001_02",
+            "imgsrc": "../../advertisement/image/seriesslide/050001_02.jpg",
+            "title": "SeriesAdSlide_02"
+        },
+        {
+            "handler": {},
+            "href": "",
+            "id": "050001_03",
+            "imgsrc": "../../advertisement/image/seriesslide/050001_03.jpg",
+            "title": "SeriesAdSlide_03"
+        },
+        {
+            "handler": {},
+            "href": "",
+            "id": "050001_03",
+            "imgsrc": "../../advertisement/image/seriesslide/050001_04.jpg",
+            "title": "SeriesAdSlide_04"
+        }
+    ]
+}

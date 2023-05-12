@@ -1,0 +1,12 @@
+{
+    "interval": "5",
+    "img": [
+        {
+            "handler": {},
+            "href": "",
+            "id": "000101_01",
+            "imgsrc": "../../advertisement/image/signinslide/000101_001.jpg",
+            "title": "AdSignIn_01"
+        }
+    ]
+}

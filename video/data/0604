@@ -1,0 +1,232 @@
+[
+    {
+        "id": "0414_140808_001",
+        "currentIndex":0,
+        "title":"Adíos",
+        "artist":"",
+        "img": "../image/music/music_img/0414_001.jpg",
+        "src":"../music/Bachata_Lovers/0414_001.mp3",
+        "lrc_path" :"../music/See You Again.lrc",
+        "class_id":"../image/music/music_img/0414_001.jpg"
+    },
+    {
+        "id": "0414_140808_002",
+        "currentIndex":1,
+        "title": "Amorcito Enfermito",
+        "artist": "",
+        "img": "../image/music/music_img/0414_001.jpg",
+        "src": "../music/Bachata_Lovers/0414_002.mp3",
+        "lrc_path" :"../music/Do What U Want.lrc",
+        "class_id":"../image/music/music_img/0414_001.jpg"
+
+    },
+	{
+        "id": "0414_140808_003",
+        "currentIndex":2,
+        "title": "Bachata En Fukuoka",
+        "artist": "",
+        "img": "../image/music/music_img/0414_001.jpg",
+        "src": "../music/Bachata_Lovers/0414_003.mp3",
+        "lrc_path" :"../music/Timbaland - Apologize.lrc",
+        "class_id":"../image/music/music_img/0414_001.jpg"
+    },{
+        "id": "0414_140808_004",
+        "currentIndex":3,
+        "title": "Celos",
+        "artist": "",
+        "img": "../image/music/music_img/0414_001.jpg",
+        "src": "../music/Bachata_Lovers/0414_004.mp3",
+        "lrc_path" :"../music/dao_bu_liao.lrc",
+        "class_id":"../image/music/music_img/0414_001.jpg"
+    },
+    {
+        "id": "0414_140808_005",
+        "currentIndex":4,
+        "title": "Corazon Sin Cara",
+        "artist": "",
+        "img": "../image/music/music_img/0414_001.jpg",
+        "src": "../music/Bachata_Lovers/0414_005.mp3",
+        "lrc_path" :"../music/123_mu_tou_ren.lrc",
+        "class_id":"../image/music/music_img/0414_001.jpg"
+    },
+	{
+        "id": "0414_140808_006",
+        "currentIndex":5,
+        "title": "Corazón Con Candado",
+        "artist": "",
+        "img": "../image/music/music_img/0414_001.jpg",
+        "src": "../music/Bachata_Lovers/0414_006.mp3",
+        "lrc_path" :"../music/ai_xiao_de_yan_jing.lrc",
+        "class_id":"../image/music/music_img/0414_001.jpg"
+    },
+	{
+        "id": "0414_140808_007",
+        "currentIndex":5,
+        "title": "Cuanto Duele",
+        "artist": "",
+        "img": "../image/music/music_img/0414_001.jpg",
+        "src": "../music/Bachata_Lovers/0414_007.mp3",
+        "lrc_path" :"../music/ai_xiao_de_yan_jing.lrc",
+        "class_id":"../image/music/music_img/0414_001.jpg"
+    },
+	{
+        "id": "0414_140808_008",
+        "currentIndex":5,
+        "title": "Darte un Beso",
+        "artist": "",
+        "img": "../image/music/music_img/0414_001.jpg",
+        "src": "../music/Bachata_Lovers/0414_008.mp3",
+        "lrc_path" :"../music/ai_xiao_de_yan_jing.lrc",
+        "class_id":"../image/music/music_img/0414_001.jpg"
+    },
+	{
+        "id": "0414_140808_009",
+        "currentIndex":5,
+        "title": "De Rodillas Te Pido",
+        "artist": "",
+        "img": "../image/music/music_img/0414_001.jpg",
+        "src": "../music/Bachata_Lovers/0414_009.mp3",
+        "lrc_path" :"../music/ai_xiao_de_yan_jing.lrc",
+        "class_id":"../image/music/music_img/0414_001.jpg"
+    },
+	{
+        "id": "0414_140808_010",
+        "currentIndex":5,
+        "title": "Deja vu",
+        "artist": "",
+        "img": "../image/music/music_img/0414_001.jpg",
+        "src": "../music/Bachata_Lovers/0414_010.mp3",
+        "lrc_path" :"../music/ai_xiao_de_yan_jing.lrc",
+        "class_id":"../image/music/music_img/0414_001.jpg"
+    },
+	{
+        "id": "0414_140808_011",
+        "currentIndex":5,
+        "title": "Dile",
+        "artist": "",
+        "img": "../image/music/music_img/0414_001.jpg",
+        "src": "../music/Bachata_Lovers/0414_011.mp3",
+        "lrc_path" :"../music/ai_xiao_de_yan_jing.lrc",
+        "class_id":"../image/music/music_img/0414_001.jpg"
+    },
+	{
+        "id": "0414_140808_012",
+        "currentIndex":5,
+        "title": "Donde Estan Esos Amigos",
+        "artist": "",
+        "img": "../image/music/music_img/0414_001.jpg",
+        "src": "../music/Bachata_Lovers/0414_012.mp3",
+        "lrc_path" :"../music/ai_xiao_de_yan_jing.lrc",
+        "class_id":"../image/music/music_img/0414_001.jpg"
+    },
+	{
+        "id": "0414_140808_013",
+        "currentIndex":5,
+        "title": "Donde Estara.mp3",
+        "artist": "",
+        "img": "../image/music/music_img/0414_001.jpg",
+        "src": "../music/Bachata_Lovers/0414_013.mp3",
+        "lrc_path" :"../music/ai_xiao_de_yan_jing.lrc",
+        "class_id":"../image/music/music_img/0414_001.jpg"
+    },
+	{
+        "id": "0414_140808_014",
+        "currentIndex":5,
+        "title": "Dos Locos",
+        "artist": "",
+        "img": "../image/music/music_img/0414_001.jpg",
+        "src": "../music/Bachata_Lovers/0414_014.mp3",
+        "lrc_path" :"../music/ai_xiao_de_yan_jing.lrc",
+        "class_id":"../image/music/music_img/0414_001.jpg"
+    },
+	{
+        "id": "0414_140808_015",
+        "currentIndex":5,
+        "title": "Duele",
+        "artist": "",
+        "img": "../image/music/music_img/0414_001.jpg",
+        "src": "../music/Bachata_Lovers/0414_015.mp3",
+        "lrc_path" :"../music/ai_xiao_de_yan_jing.lrc",
+        "class_id":"../image/music/music_img/0414_001.jpg"
+    },
+	{
+        "id": "0414_140808_016",
+        "currentIndex":5,
+        "title": "El Cuchillo",
+        "artist": "",
+        "img": "../image/music/music_img/0414_001.jpg",
+        "src": "../music/Bachata_Lovers/0414_016.mp3",
+        "lrc_path" :"../music/ai_xiao_de_yan_jing.lrc",
+        "class_id":"../image/music/music_img/0414_001.jpg"
+    },
+	{
+        "id": "0414_140808_017",
+        "currentIndex":5,
+        "title": "El Guión",
+        "artist": "",
+        "img": "../image/music/music_img/0414_001.jpg",
+        "src": "../music/Bachata_Lovers/0414_017.mp3",
+        "lrc_path" :"../music/ai_xiao_de_yan_jing.lrc",
+        "class_id":"../image/music/music_img/0414_001.jpg"
+    },
+	{
+        "id": "0414_140808_018",
+        "currentIndex":5,
+        "title": "El Verdadero Amor Perdona - Dueto con Prince Royce",
+        "artist": "",
+        "img": "../image/music/music_img/0414_001.jpg",
+        "src": "../music/Bachata_Lovers/0414_018.mp3",
+        "lrc_path" :"../music/ai_xiao_de_yan_jing.lrc",
+        "class_id":"../image/music/music_img/0414_001.jpg"
+    },
+	{
+        "id": "0414_140808_019",
+        "currentIndex":5,
+        "title": "En Todo Fuiste la Mejor",
+        "artist": "",
+        "img": "../image/music/music_img/0414_001.jpg",
+        "src": "../music/Bachata_Lovers/0414_019.mp3",
+        "lrc_path" :"../music/ai_xiao_de_yan_jing.lrc",
+        "class_id":"../image/music/music_img/0414_001.jpg"
+    },
+	{
+        "id": "0414_140808_020",
+        "currentIndex":5,
+        "title": "Enseñame a Olvidar",
+        "artist": "",
+        "img": "../image/music/music_img/0414_001.jpg",
+        "src": "../music/Bachata_Lovers/0414_020.mp3",
+        "lrc_path" :"../music/ai_xiao_de_yan_jing.lrc",
+        "class_id":"../image/music/music_img/0414_001.jpg"
+    },{"id": "0414_140808_021","currentIndex":0,"title":"Eres Mía","artist":"","img": "../image/music/music_img/0414_001.jpg","src":"../music/Bachata_Lovers/0414_021.mp3","lrc_path" :"","class_id":"../image/music/music_img/0414_001.jpg"},
+{"id": "0414_140808_022","currentIndex":0,"title":"Es Tan Difícil","artist":"","img": "../image/music/music_img/0414_001.jpg","src":"../music/Bachata_Lovers/0414_022.mp3","lrc_path" :"","class_id":"../image/music/music_img/0414_001.jpg"},
+{"id": "0414_140808_023","currentIndex":0,"title":"I Believe","artist":"","img": "../image/music/music_img/0414_001.jpg","src":"../music/Bachata_Lovers/0414_023.mp3","lrc_path" :"","class_id":"../image/music/music_img/0414_001.jpg"},
+{"id": "0414_140808_024","currentIndex":0,"title":"Imitadora","artist":"","img": "../image/music/music_img/0414_001.jpg","src":"../music/Bachata_Lovers/0414_024.mp3","lrc_path" :"","class_id":"../image/music/music_img/0414_001.jpg"},
+{"id": "0414_140808_025","currentIndex":0,"title":"Infiel","artist":"","img": "../image/music/music_img/0414_001.jpg","src":"../music/Bachata_Lovers/0414_025.mp3","lrc_path" :"","class_id":"../image/music/music_img/0414_001.jpg"},
+{"id": "0414_140808_026","currentIndex":0,"title":"Intentalo Tu","artist":"","img": "../image/music/music_img/0414_001.jpg","src":"../music/Bachata_Lovers/0414_026.mp3","lrc_path" :"","class_id":"../image/music/music_img/0414_001.jpg"},
+{"id": "0414_140808_027","currentIndex":0,"title":"La Asesina","artist":"","img": "../image/music/music_img/0414_001.jpg","src":"../music/Bachata_Lovers/0414_027.mp3","lrc_path" :"","class_id":"../image/music/music_img/0414_001.jpg"},
+{"id": "0414_140808_028","currentIndex":0,"title":"La Boda","artist":"","img": "../image/music/music_img/0414_001.jpg","src":"../music/Bachata_Lovers/0414_028.mp3","lrc_path" :"","class_id":"../image/music/music_img/0414_001.jpg"},
+{"id": "0414_140808_029","currentIndex":0,"title":"La Misma Mentira","artist":"","img": "../image/music/music_img/0414_001.jpg","src":"../music/Bachata_Lovers/0414_029.mp3","lrc_path" :"","class_id":"../image/music/music_img/0414_001.jpg"},
+{"id": "0414_140808_030","currentIndex":0,"title":"La Última Noche","artist":"","img": "../image/music/music_img/0414_001.jpg","src":"../music/Bachata_Lovers/0414_030.mp3","lrc_path" :"","class_id":"../image/music/music_img/0414_001.jpg"},
+{"id": "0414_140808_031","currentIndex":0,"title":"Me Emborrachare - Bachata Radio Edit","artist":"","img": "../image/music/music_img/0414_001.jpg","src":"../music/Bachata_Lovers/0414_031.mp3","lrc_path" :"","class_id":"../image/music/music_img/0414_001.jpg"},
+{"id": "0414_140808_032","currentIndex":0,"title":"Me Olvidare de Ti","artist":"","img": "../image/music/music_img/0414_001.jpg","src":"../music/Bachata_Lovers/0414_032.mp3","lrc_path" :"","class_id":"../image/music/music_img/0414_001.jpg"},
+{"id": "0414_140808_033","currentIndex":0,"title":"No Es una Novela","artist":"","img": "../image/music/music_img/0414_001.jpg","src":"../music/Bachata_Lovers/0414_033.mp3","lrc_path" :"","class_id":"../image/music/music_img/0414_001.jpg"},
+{"id": "0414_140808_034","currentIndex":0,"title":"No Tengo Suerte En El Amor","artist":"","img": "../image/music/music_img/0414_001.jpg","src":"../music/Bachata_Lovers/0414_034.mp3","lrc_path" :"","class_id":"../image/music/music_img/0414_001.jpg"},
+{"id": "0414_140808_035","currentIndex":0,"title":"Perdi","artist":"","img": "../image/music/music_img/0414_001.jpg","src":"../music/Bachata_Lovers/0414_035.mp3","lrc_path" :"","class_id":"../image/music/music_img/0414_001.jpg"},
+{"id": "0414_140808_036","currentIndex":0,"title":"Propuesta Indecente","artist":"","img": "../image/music/music_img/0414_001.jpg","src":"../music/Bachata_Lovers/0414_036.mp3","lrc_path" :"","class_id":"../image/music/music_img/0414_001.jpg"},
+{"id": "0414_140808_037","currentIndex":0,"title":"Quitémonos la Ropa","artist":"","img": "../image/music/music_img/0414_001.jpg","src":"../music/Bachata_Lovers/0414_037.mp3","lrc_path" :"","class_id":"../image/music/music_img/0414_001.jpg"},
+{"id": "0414_140808_038","currentIndex":0,"title":"Qué Bonito","artist":"","img": "../image/music/music_img/0414_001.jpg","src":"../music/Bachata_Lovers/0414_038.mp3","lrc_path" :"","class_id":"../image/music/music_img/0414_001.jpg"},
+{"id": "0414_140808_039","currentIndex":0,"title":"Secreto","artist":"","img": "../image/music/music_img/0414_001.jpg","src":"../music/Bachata_Lovers/0414_039.mp3","lrc_path" :"","class_id":"../image/music/music_img/0414_001.jpg"},
+{"id": "0414_140808_040","currentIndex":0,"title":"Solo Quise Quererte","artist":"","img": "../image/music/music_img/0414_001.jpg","src":"../music/Bachata_Lovers/0414_040.mp3","lrc_path" :"","class_id":"../image/music/music_img/0414_001.jpg"},
+{"id": "0414_140808_041","currentIndex":0,"title":"Tatuaje (feat Bachata Heightz)","artist":"","img": "../image/music/music_img/0414_001.jpg","src":"../music/Bachata_Lovers/0414_041.mp3","lrc_path" :"","class_id":"../image/music/music_img/0414_001.jpg"},
+{"id": "0414_140808_042","currentIndex":0,"title":"Te Amo y Te Amaré","artist":"","img": "../image/music/music_img/0414_001.jpg","src":"../music/Bachata_Lovers/0414_042.mp3","lrc_path" :"","class_id":"../image/music/music_img/0414_001.jpg"},
+{"id": "0414_140808_043","currentIndex":0,"title":"Te Extraño - Bachata Version","artist":"","img": "../image/music/music_img/0414_001.jpg","src":"../music/Bachata_Lovers/0414_043.mp3","lrc_path" :"","class_id":"../image/music/music_img/0414_001.jpg"},
+{"id": "0414_140808_044","currentIndex":0,"title":"Tengo un Amor","artist":"","img": "../image/music/music_img/0414_001.jpg","src":"../music/Bachata_Lovers/0414_044.mp3","lrc_path" :"","class_id":"../image/music/music_img/0414_001.jpg"},
+{"id": "0414_140808_045","currentIndex":0,"title":"Tú","artist":"","img": "../image/music/music_img/0414_001.jpg","src":"../music/Bachata_Lovers/0414_045.mp3","lrc_path" :"","class_id":"../image/music/music_img/0414_001.jpg"},
+{"id": "0414_140808_046","currentIndex":0,"title":"Un Beso","artist":"","img": "../image/music/music_img/0414_001.jpg","src":"../music/Bachata_Lovers/0414_046.mp3","lrc_path" :"","class_id":"../image/music/music_img/0414_001.jpg"},
+{"id": "0414_140808_047","currentIndex":0,"title":"Una Vuelta","artist":"","img": "../image/music/music_img/0414_001.jpg","src":"../music/Bachata_Lovers/0414_047.mp3","lrc_path" :"","class_id":"../image/music/music_img/0414_001.jpg"},
+{"id": "0414_140808_048","currentIndex":0,"title":"Ven Tú","artist":"","img": "../image/music/music_img/0414_001.jpg","src":"../music/Bachata_Lovers/0414_048.mp3","lrc_path" :"","class_id":"../image/music/music_img/0414_001.jpg"},
+{"id": "0414_140808_049","currentIndex":0,"title":"Vuelve a Mi","artist":"","img": "../image/music/music_img/0414_001.jpg","src":"../music/Bachata_Lovers/0414_049.mp3","lrc_path" :"","class_id":"../image/music/music_img/0414_001.jpg"},
+{"id": "0414_140808_050","currentIndex":0,"title":"Y Ahora","artist":"","img": "../image/music/music_img/0414_001.jpg","src":"../music/Bachata_Lovers/0414_050.mp3","lrc_path" :"","class_id":"../image/music/music_img/0414_001.jpg"}
+
+]

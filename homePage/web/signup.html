@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <!-- Favicon -->
+        <link rel="icon" type="image/jpg" href="../../common/images/logo/logo.png">
+        <link rel="stylesheet" href="../../common/new/css/bootstrap.css">
+        <link rel="stylesheet" href="../../common/css/idangerous.swiper.css">
+        <link rel="stylesheet" href="../../common/new/css/main.css">
+        <!-- Style inputs -->
+        <link rel="stylesheet" href="../../common/new/css/style-inputs.css">
+        <!-- Scripts for checkinternet -->
+        <script  src="../../common/js/jquery-2.1.3.min.js"></script>
+        <script  src="../../common/js/jquery.hongdian.js"></script>
+        <script  src="../../common/js/bootstrap.js"></script>
+        <script  src="../../common/js/idangerous.swiper.js"></script>
+        <script src="../../common/new/js/get_cookie.js"></script>
+        <script src="../../common/js/base/get_ad.js"></script>
+        <script>
+            var mid = "0001";//Home page number
+            var countSource = "02";
+            var phoneUser = obtenerCookie("phone");
+        </script>
+        <script src="../../common/new/js/getState.js"></script>
+        <script src="../../common/new/js/uploadPageView.js"></script>
+        <title>Registro</title>
+    </head>
+    <body>
+        <div class="container fluid">
+            <div class="background"></div>
+            <!-- Start content -->
+            <section>
+                <!-- Header logo -->
+                <div class="row">
+                    <div class="col-12">
+                        <div class="header">
+                            <img  src="../../common/images/header.jpg" alt="">
+                        </div>
+                        <div class="header-logo">
+                            <img src="../../common/images/top_logo.png" alt="">
+                        </div> 
+                    </div>
+                </div>
+                <!-- Slide ad -->
+                <div class="slide-ad">
+                    <div id="signUpPage" class="swiper-container">
+                        <div class="news-wrapper swiper-wrapper">
+                            <script type="text/javascript">
+                                getAd('signUpPage');//Id div for contruct content
+                            </script>
+                        </div>
+                    </div>
+                    <div class="pagination-news"></div>
+                </div>
+                <!-- Welcome words -->
+                <form id="signup_form" method="POST" class="col-12 mx-auto d-block text-center">
+                    <div class="row">
+                        <div class="col-12 mx-auto d-block text-center">
+                            <h1 class="welcome welcome-signup">Registro</h1>
+                        </div>
+                    </div>
+                        <!-- Sign Up Form -->
+                    <div class="row">
+                        <div class="col-12 mx-auto d-block text-center ">
+                                <fieldset>
+                                    <!-- Phone -->
+                                    <div class="control">
+                                        <input id="phone" type="number" pattern="[0-9]+*" name="usr_info" class="form-input" placeholder="Número de Celular">
+                                    </div>
+                                    <!-- Name -->
+                                    <div class="control">
+                                        <input id="name" name="name_usr" class="form-input" type="text" placeholder="Nombre y Apellido">
+                                    </div>
+                                    <!-- Email -->
+                                    <div class="control">
+                                        <input id="email" name="email_usr" class="form-input" type="hidden" value="unmail" placeholder="Correo Electrónico">
+                                    </div>
+                                    <!-- State -->
+                                    <div  class="control">
+                                        <select id="controlSelect" name="state_usr" class="form-input">
+                                            <script>
+                                                getState('controlSelect');
+                                            </script>
+                                        </select>
+                                    </div>
+                                    <!-- City -->
+                                    <div class="control">
+                                        <select  id="city" name="city_usr" class="form-input">
+                                            <option  value="" selected hidden>Ciudad</option>
+                                        </select>
+                                    </div>
+                                    <!-- Age -->
+                                    <div class="control">
+                                        <select id="birthYear" name="year_birth" class="form-input">
+                                            <option  value="" selected hidden>Edad</option>
+                                            <option value="12">12 Años</option>
+                                            <option value="13">13 Años</option>
+                                            <option value="14">14 Años</option>
+                                            <option value="15">15 Años</option>
+                                            <option value="16">16 Años</option>
+                                            <option value="17">17 Años</option>
+                                            <option value="18">18 Años</option>
+                                            <option value="19">19 Años</option>
+                                            <option value="20">20 Años</option>
+                                            <option value="21">21 Años</option>
+                                            <option value="22">22 Años</option>
+                                            <option value="23">23 Años</option>
+                                            <option value="24">24 Años</option>
+                                            <option value="25">25 Años</option>
+                                            <option value="26">26 Años</option>
+                                            <option value="27">27 Años</option>
+                                            <option value="28">28 Años</option>
+                                            <option value="29">29 Años</option>
+                                            <option value="30">30 Años</option>
+                                            <option value="31">31 Años</option>
+                                            <option value="32">32 Años</option>
+                                            <option value="33">33 Años</option>
+                                            <option value="34">34 Años</option>
+                                            <option value="35">35 Años</option>
+                                            <option value="36">36 Años</option>
+                                            <option value="37">37 Años</option>
+                                            <option value="38">38 Años</option>
+                                            <option value="39">39 Años</option>
+                                            <option value="40">40 Años</option>
+                                            <option value="41">41 Años</option>
+                                            <option value="42">42 Años</option>
+                                            <option value="43">43 Años</option>
+                                            <option value="44">44 Años</option>
+                                            <option value="45">45 Años</option>
+                                            <option value="46">46 Años</option>
+                                            <option value="47">47 Años</option>
+                                            <option value="48">48 Años</option>
+                                            <option value="49">49 Años</option>
+                                            <option value="50">50 Años</option>
+                                            <option value="51">51 Años</option>
+                                            <option value="52">52 Años</option>
+                                            <option value="53">53 Años</option>
+                                            <option value="54">54 Años</option>
+                                            <option value="55">55 Años</option>
+                                            <option value="56">56 Años</option>
+                                            <option value="57">57 Años</option>
+                                            <option value="58">58 Años</option>
+                                            <option value="59">59 Años</option>
+                                            <option value="60">60 Años</option>
+                                            <option value="61">61 Años</option>
+                                            <option value="62">62 Años</option>
+                                            <option value="63">63 Años</option>
+                                            <option value="64">64 Años</option>
+                                            <option value="65">65 Años</option>
+                                            <option value="66">66 Años</option>
+                                            <option value="67">67 Años</option>
+                                            <option value="68">68 Años</option>
+                                            <option value="69">69 Años</option>
+                                            <option value="70">70 Años</option>
+                                            <option value="71">71 Años</option>
+                                            <option value="72">72 Años</option>
+                                            <option value="73">73 Años</option>
+                                            <option value="74">74 Años</option>
+                                            <option value="75">75 Años</option>
+                                            <option value="76">76 Años</option>
+                                            <option value="77">77 Años</option>
+                                            <option value="78">78 Años</option>
+                                            <option value="79">79 Años</option>
+                                            <option value="80">80 Años</option>
+                                            <option value="81">81 Años</option>
+                                            <option value="82">82 Años</option>
+                                            <option value="83">83 Años</option>
+                                            <option value="84">84 Años</option>
+                                            <option value="85">85 Años</option>
+                                            <option value="86">86 Años</option>
+                                            <option value="87">87 Años</option>
+                                            <option value="88">88 Años</option>
+                                            <option value="89">89 Años</option>
+                                            <option value="90">90 Años</option>
+                                            <option value="91">91 Años</option>
+                                            <option value="92">92 Años</option>
+                                            <option value="93">93 Años</option>
+                                            <option value="94">94 Años</option>
+                                            <option value="95">95 Años</option>
+                                            <option value="96">96 Años</option>
+                                            <option value="97">97 Años</option>
+                                            <option value="98">98 Años</option>
+                                            <option value="99">99 Años</option>
+                                        </select>
+                                    </div>
+                                </fieldset>
+                            </div>
+                        </div>
+                    <!-- Status Alert -->
+                    <div class="row">
+                        <div class="col-12 mx-auto d-block text-center stmt">
+                            <div id="warning"></div>
+                        </div>
+                    </div>
+                    <!-- Terms and conditions -->
+                    <div class="row">
+                        <div class="col-12 mx-auto d-block text-center terms">
+                            <input style="width: 20px;" id="checkbox_input" type="checkbox">
+                            <input type="hidden"> <span>Acepto los <a href="../../internet/web/notice.html">T&eacute;rminos y condiciones</a> de uso.</span>
+                        </div>
+                    </div>
+                    <!-- Action button -->
+                    <div class="row">
+                        <div class="col-12 mx-auto d-block text-center action-button-signup">
+                            <input id="signup_submit" class="action-button" type="submit" value="Registrarse"/>
+                        </div>
+                    </div>
+                </form>
+            </section>
+        </div>
+        <!-- Send Form JS -->
+        <script src="../../common/new/js/getCities.js"></script>
+        <script src="../../common/new/js/contact_form.js"></script>
+        <script>
+            $(function(){
+                pageViewHomeUploadData("01", "signup_page", phoneUser);
+            });
+        </script>
+    </body>
+</html>

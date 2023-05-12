@@ -1,0 +1,119 @@
+[
+    {
+		"id":"0503_001",
+		"img":"../image/series/0503_001.jpg",
+		"plot":"Futurama es una serie animada de ciencia ficción creada por Matt Groening que sigue las aventuras de Fry, un repartidor de pizza que se despierta mil años en el futuro y se une a la tripulación de Planet Express, viviendo situaciones divertidas y peligrosas junto a la capitana Leela y el robot Bender.",
+		"poster":"Futurama",
+		"src":"../video/series/serie3/0407_001.mp4",
+		"pub":"../video/preroll/0500.mp4",
+		"title":"2D Blacktop"
+	},
+	{
+		"id":"0503_002",
+		"img":"../image/series/0503_001.jpg",
+		"plot":"Futurama es una serie animada de ciencia ficción creada por Matt Groening que sigue las aventuras de Fry, un repartidor de pizza que se despierta mil años en el futuro y se une a la tripulación de Planet Express, viviendo situaciones divertidas y peligrosas junto a la capitana Leela y el robot Bender.",
+		"poster":"Futurama",
+		"src":"../video/series/serie3/0407_002.mp4",
+		"pub":"../video/preroll/0500.mp4",
+		"title":"Fry and Leela's Big Fling"
+    },
+	{
+		"id":"0503_001",
+		"img":"../image/series/0503_001.jpg",
+		"plot":"Futurama es una serie animada de ciencia ficción creada por Matt Groening que sigue las aventuras de Fry, un repartidor de pizza que se despierta mil años en el futuro y se une a la tripulación de Planet Express, viviendo situaciones divertidas y peligrosas junto a la capitana Leela y el robot Bender.",
+		"poster":"Futurama",
+		"src":"../video/series/serie3/0407_001.mp4",
+		"pub":"../video/preroll/0500.mp4",
+		"title":"T. The Terrestrial"
+    },
+	{
+		"id":"0503_004",
+		"img":"../image/series/0503_001.jpg",
+		"plot":"Futurama es una serie animada de ciencia ficción creada por Matt Groening que sigue las aventuras de Fry, un repartidor de pizza que se despierta mil años en el futuro y se une a la tripulación de Planet Express, viviendo situaciones divertidas y peligrosas junto a la capitana Leela y el robot Bender.",
+		"poster":"Futurama",
+		"src":"../video/series/serie3/0407_004.mp4",
+		"pub":"../video/preroll/0500.mp4",
+		"title":"Forty Percent Leadbelly"
+    },
+    {
+        "id":"0503_005",
+        "img":"../image/series/0503_001.jpg",
+        "plot":"Futurama es una serie animada de ciencia ficción creada por Matt Groening que sigue las aventuras de Fry, un repartidor de pizza que se despierta mil años en el futuro y se une a la tripulación de Planet Express, viviendo situaciones divertidas y peligrosas junto a la capitana Leela y el robot Bender.",
+        "poster":"Futurama",
+        "src":"../video/series/serie3/0407_005.mp4",
+        "pub":"../video/preroll/0500.mp4",
+        "title":"The Inhuman Torch"
+    },
+    {
+        "id":"0503_006",
+        "img":"../image/series/0503_001.jpg",
+        "plot":"Futurama es una serie animada de ciencia ficción creada por Matt Groening que sigue las aventuras de Fry, un repartidor de pizza que se despierta mil años en el futuro y se une a la tripulación de Planet Express, viviendo situaciones divertidas y peligrosas junto a la capitana Leela y el robot Bender.",
+        "poster":"Futurama",
+        "src":"../video/series/serie3/0407_006.mp4",
+        "pub":"../video/preroll/0500.mp4",
+        "title":"Saturday Morning Fun Pit"
+    },
+    {
+        "id":"0503_007",
+        "img":"../image/series/0503_001.jpg",
+        "plot":"Futurama es una serie animada de ciencia ficción creada por Matt Groening que sigue las aventuras de Fry, un repartidor de pizza que se despierta mil años en el futuro y se une a la tripulación de Planet Express, viviendo situaciones divertidas y peligrosas junto a la capitana Leela y el robot Bender.",
+        "poster":"Futurama",
+        "src":"../video/series/serie3/0407_007.mp4",
+        "pub":"../video/preroll/0500.mp4",
+        "title":"Calculon 2.0"
+    },
+    {
+        "id":"0503_008",
+        "img":"../image/series/0503_001.jpg",
+        "plot":"Futurama es una serie animada de ciencia ficción creada por Matt Groening que sigue las aventuras de Fry, un repartidor de pizza que se despierta mil años en el futuro y se une a la tripulación de Planet Express, viviendo situaciones divertidas y peligrosas junto a la capitana Leela y el robot Bender.",
+        "poster":"Futurama",
+        "src":"../video/series/serie3/0407_008.mp4",
+        "pub":"../video/preroll/0500.mp4",
+        "title":"Assie Come Home"
+    },
+    {
+        "id":"0503_009",
+        "img":"../image/series/0503_001.jpg",
+        "plot":"Futurama es una serie animada de ciencia ficción creada por Matt Groening que sigue las aventuras de Fry, un repartidor de pizza que se despierta mil años en el futuro y se une a la tripulación de Planet Express, viviendo situaciones divertidas y peligrosas junto a la capitana Leela y el robot Bender.",
+        "poster":"Futurama",
+        "src":"../video/series/serie3/0407_009.mp4",
+        "pub":"../video/preroll/0500.mp4",
+        "title":"Leela and the Genestalk"
+    },
+    {
+        "id":"0503_010",
+        "img":"../image/series/0503_001.jpg",
+        "plot":"Futurama es una serie animada de ciencia ficción creada por Matt Groening que sigue las aventuras de Fry, un repartidor de pizza que se despierta mil años en el futuro y se une a la tripulación de Planet Express, viviendo situaciones divertidas y peligrosas junto a la capitana Leela y el robot Bender.",
+        "poster":"Futurama",
+        "src":"../video/series/serie3/0407_010.mp4",
+        "pub":"../video/preroll/0500.mp4",
+        "title":"Game of Tones"
+    },
+    {
+        "id":"0503_011",
+        "img":"../image/series/0503_001.jpg",
+        "plot":"Futurama es una serie animada de ciencia ficción creada por Matt Groening que sigue las aventuras de Fry, un repartidor de pizza que se despierta mil años en el futuro y se une a la tripulación de Planet Express, viviendo situaciones divertidas y peligrosas junto a la capitana Leela y el robot Bender.",
+        "poster":"Futurama",
+        "src":"../video/series/serie3/0407_011.mp4",
+        "pub":"../video/preroll/0500.mp4",
+        "title":"Murder on the Planet Express"
+    },
+    {
+        "id":"0503_012",
+        "img":"../image/series/0503_001.jpg",
+        "plot":"Futurama es una serie animada de ciencia ficción creada por Matt Groening que sigue las aventuras de Fry, un repartidor de pizza que se despierta mil años en el futuro y se une a la tripulación de Planet Express, viviendo situaciones divertidas y peligrosas junto a la capitana Leela y el robot Bender.",
+        "poster":"Futurama",
+        "src":"../video/series/serie3/0407_012.mp4",
+        "pub":"../video/preroll/0500.mp4",
+        "title":"Stench and Stenchibility"
+    },
+	{
+		"id":"0503_013",
+		"img":"../image/series/0503_001.jpg",
+		"plot":"Futurama es una serie animada de ciencia ficción creada por Matt Groening que sigue las aventuras de Fry, un repartidor de pizza que se despierta mil años en el futuro y se une a la tripulación de Planet Express, viviendo situaciones divertidas y peligrosas junto a la capitana Leela y el robot Bender.",
+		"poster":"Futurama",
+		"src":"../video/series/serie3/0407_013.mp4",
+		"pub":"../video/preroll/0500.mp4",
+		"title":"Meanwhile"
+    }
+]
