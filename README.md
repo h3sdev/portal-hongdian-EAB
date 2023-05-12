@@ -1,12 +1,9 @@
 
-Este repositorio contiene los portales de EAB de distintas versiones incluye un zip que contiene losa rchivos del portal.
+Este repositorio contiene los portales de EAB de distintas versiones, incluyendo un archivo ZIP que contiene los archivos del portal. Para instalar una versión, es necesario descomprimir el contenido del archivo ZIP en la raíz de /mnt/web0, ya que este repositorio es el contenido que debe tener dicha carpeta.
 
+Es importante crear una release cada vez que se modifique una versión a instalar en un bus. La release debe incluir el ZIP del contenido actualizado. De esta manera, se puede llevar un registro de las versiones que se han enviado a los buses y hacer un seguimiento adecuado.
 
-Desde la raíz de este repositorio debe descomprimirse el contenido en la raíz de /mnt/web0 ya que este repositorio es el contenido que debe tener dicha carpeta.
-
-
-Cada vez que se modifique una versión a instalar en un bus se debe crear una release que incluya el zip del contenido esto es importante ya que es la forma de saber que versiones se han enviado a alos buses y puede de este modo hacerle seguimiento.
-
+Es super importante modificar el archivo versión de la carpeta upload pues de este se verifica remotamente que versión contiene el dispositivo.
 
 > ## Para Instalar en el dispositivo Hongdian
 
