@@ -28,16 +28,16 @@ body{
     padding: 20px;
     font-size: 24px;
     font-weight: 300;
-    background: #ed5f5f;
+    background: #222B52;
     color: #fff;
     text-decoration: none;
 }
 .accordion-titulo.open {
-    background: #015599;
+    background: #222B52;
     color: #fff;
 }
 .accordion-titulo:hover {
-    background: #015599;
+    background: #222B52;
 }
 
 .accordion-titulo span.toggle-icon:before {

@@ -6,7 +6,7 @@
     width: 80%;
     background: transparent;
     border-radius: 30px;
-    border: 2px solid #005baa;
+    border: 2px solid #222B52;
     background-color: transparent;
     font-size: 1.2em;
 }
@@ -26,7 +26,7 @@
     width: 25%;
     background: transparent;
     border-radius: 30px;
-    border: 2px solid #005baa;
+    border: 2px solid #222B52;
     background-color: transparent;
     font-size: 1.2em;
 }
@@ -45,7 +45,7 @@
     opacity: 1; /* Firefox */
 }
 .icons {
-    color: #005baa;
+    color: #222B52;
     right: 22%;
     margin-top: 25px;
     position: absolute;
@@ -53,5 +53,5 @@
 .stmt {
     font-size: 1em;
     margin-top: 2%;
-    color: red;
+    color: #222B52;
 }

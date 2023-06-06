@@ -43,7 +43,7 @@
 .nav-active {
     background: none;
     /*color: #3399ff;*/
-    color: #ff0000;
+    color: #222B52;
     font-weight: bolder;
 }
 
@@ -51,7 +51,7 @@
     margin-bottom: -5px;
 }
 /*.sec-menu-img{width:38px;height: 38px; margin: 5px auto 0 auto; }*/
-.sec-menu-line{height:2px;margin: -1px auto 0 auto;padding: 0;border:2px solid #ff0000;/*border:2px solid #3399ff;*//*border-top: 0px solid #3399ff*/}
+.sec-menu-line{height:2px;margin: -1px auto 0 auto;padding: 0;border:2px solid #222B52;/*border:2px solid #3399ff;*//*border-top: 0px solid #3399ff*/}
 
 
 .img-responsive{
@@ -162,13 +162,13 @@ button {
 .welcome {
     font-weight: 900;
     font-size: 2.5em;
-    color: #005baa;
+    color: #222B52;
 }
 .welcome-val {
     padding: 0 10px 0 10px;
     margin-top: 10%;
     font-size: 1.2em;
-    color: #005baa;
+    color: #222B52;
 }
 .welcome-signup {
     font-size: 2.3em;
@@ -191,22 +191,22 @@ button {
     border-radius: 15px;
     color: #ffffff;
     border: 1px solid #35b3a0;
-    background-color: #005baa;
+    background-color: #222B52;
 }
 .terms {
     font-weight: 900;
     font-size: 0.8em;
-    color: #005baa;
+    color: #222B52;
     margin-top: 5%;
 }
 .terms a {
-    color: #eb1f2d;
+    color: #222B52;
 }  
 .stmt {
     font-size: 1em;
     margin-top: 2%;
     height: 5px;
-    color: #eb1f2d;
+    color: #222B52;
 }
 @media only screen and (max-height: 568px) and (orientation: portrait){
     .welcome-signup {
@@ -219,7 +219,7 @@ button {
     .terms {
         font-weight: 900;
         font-size: 0.8em;
-        color: #005baa;
+        color: #222B52;
         margin-top: 10px;
     }
     .footer {
