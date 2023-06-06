@@ -1,7 +1,7 @@
 #!/bin/bash
 #created by DH 09-05-2023
 #change this variable to set up a ssid for your device
-WiFiSSID="CopetranWiFi"
+WiFiSSID="BolivarianoWiFi"
 
 #Assign the variables from command-line arguments
 boxID="$(cat /tmp/device.info | grep Device_SN | awk -F'=' '{print  $2}'| tail -c 4 | tr -d ' ')"
