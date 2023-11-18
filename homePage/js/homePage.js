@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /**
  * Created by qhao on 2015/4/22.
  */
@@ -359,4 +358,4 @@ function pageViewHomeUploadData(){
     }, function() {
     });
 }
->>>>>>> 0660cd49a11a625adad0ea3be44cd1ccb88b9cec
+
