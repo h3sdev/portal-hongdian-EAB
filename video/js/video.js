@@ -20,9 +20,12 @@ function generateMainContent(){
         type: "get",
         dataType: 'json',  //类型
         timeout: 3000,
+<<<<<<< HEAD
         beforeSend: function(xhr){
             xhr.overrideMimeType("text/json; charset=x-user-defined");
         }
+=======
+>>>>>>> 0660cd49a11a625adad0ea3be44cd1ccb88b9cec
     });
 
     //得到影音数据

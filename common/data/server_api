@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 
     {
 	 "server_host":"http://freewifi.hongdian.com:8080",
      "auth_host":"http://freewifi.hongdian.com:8080"
     }
 
+=======
+
+    {
+	 "server_host":"http://freewifi.hongdian.com:8080",
+     "auth_host":"http://freewifi.hongdian.com:8080"
+    }
+
+>>>>>>> 0660cd49a11a625adad0ea3be44cd1ccb88b9cec

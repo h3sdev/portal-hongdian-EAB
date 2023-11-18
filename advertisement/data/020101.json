@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "interval": "5",
     "img": [
@@ -30,4 +31,38 @@
             "title": "HomePageAd_04"
         }
     ]
+=======
+{
+    "interval": "5",
+    "img": [
+        {
+            "handler": {},
+            "href": "",
+            "id": "020101_01",
+            "imgsrc": "../../advertisement/image/homepageslide/020101_001.jpg",
+            "title": "HomePageAd_01"
+        },
+        {
+            "handler": {},
+            "href": "",
+            "id": "020101_02",
+            "imgsrc": "../../advertisement/image/homepageslide/020101_002.jpg",
+            "title": "HomePageAd_02"
+        },
+        {
+            "handler": {},
+            "href": "",
+            "id": "020101_03",
+            "imgsrc": "../../advertisement/image/homepageslide/020101_003.jpg",
+            "title": "HomePageAd_03"
+        },
+        {
+            "handler": {},
+            "href": "",
+            "id": "020101_03",
+            "imgsrc": "../../advertisement/image/homepageslide/020101_004.jpg",
+            "title": "HomePageAd_04"
+        }
+    ]
+>>>>>>> 0660cd49a11a625adad0ea3be44cd1ccb88b9cec
 }

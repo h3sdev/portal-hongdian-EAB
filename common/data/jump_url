@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 
     {
 	 "jump_url":"http://google.com",
 	 "apk_jump_url":"http://busconectado.com"
     }
+=======
+
+    {
+	 "jump_url":"http://google.com",
+	 "apk_jump_url":"http://busconectado.com"
+    }
+>>>>>>> 0660cd49a11a625adad0ea3be44cd1ccb88b9cec

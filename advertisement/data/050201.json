@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "interval": "5",
     "img": [
@@ -30,4 +31,38 @@
             "title": "Serie2AdSlide_04"
         }
     ]
+=======
+{
+    "interval": "5",
+    "img": [
+        {
+            "handler": {},
+            "href": "",
+            "id": "050201_01",
+            "imgsrc": "../../advertisement/image/seriesslide/050001_01.jpg",
+            "title": "Serie2AdSlide_01"
+        },
+        {
+            "handler": {},
+            "href": "",
+            "id": "050201_02",
+            "imgsrc": "../../advertisement/image/seriesslide/050001_02.jpg",
+            "title": "Serie2AdSlide_02"
+        },
+        {
+            "handler": {},
+            "href": "",
+            "id": "050201_03",
+            "imgsrc": "../../advertisement/image/seriesslide/050001_03.jpg",
+            "title": "Serie2AdSlide_03"
+        },
+        {
+            "handler": {},
+            "href": "",
+            "id": "050201_04",
+            "imgsrc": "../../advertisement/image/seriesslide/050001_04.jpg",
+            "title": "Serie2AdSlide_04"
+        }
+    ]
+>>>>>>> 0660cd49a11a625adad0ea3be44cd1ccb88b9cec
 }

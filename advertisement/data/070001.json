@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "interval": "5",
     "img": [
@@ -30,4 +31,38 @@
             "title": "OthersAdSlide_04"
         }
     ]
+=======
+{
+    "interval": "5",
+    "img": [
+        {
+            "handler": {},
+            "href": "",
+            "id": "070001_01",
+            "imgsrc": "../../advertisement/image/othersslide/070001_001.jpg",
+            "title": "OthersAdSlide_01"
+        },
+        {
+            "handler": {},
+            "href": "",
+            "id": "070001_02",
+            "imgsrc": "../../advertisement/image/othersslide/070001_002.jpg",
+            "title": "OthersAdSlide_02"
+        },
+        {
+            "handler": {},
+            "href": "",
+            "id": "070001_03",
+            "imgsrc": "../../advertisement/image/othersslide/070001_003.jpg",
+            "title": "OthersAdSlide_03"
+        },
+        {
+            "handler": {},
+            "href": "",
+            "id": "070001_04",
+            "imgsrc": "../../advertisement/image/othersslide/070001_004.jpg",
+            "title": "OthersAdSlide_04"
+        }
+    ]
+>>>>>>> 0660cd49a11a625adad0ea3be44cd1ccb88b9cec
 }

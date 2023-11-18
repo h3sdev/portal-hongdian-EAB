@@ -9,7 +9,11 @@ if [ -z $checkStatsInRC ];
 then
     echo "No stats line in rc.local"
     echo "Replacing rc.local"
+<<<<<<< HEAD
     `mv /mnt/web0/upload/rc.local /etc/rc.local`
+=======
+    `cp /mnt/web0/upload/rc.local /etc/rc.local`
+>>>>>>> 0660cd49a11a625adad0ea3be44cd1ccb88b9cec
     echo "Giving permissions to rc.local"
     `chmod 777 /etc/rc.local`
     sleep 1;

@@ -15,5 +15,9 @@ PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
 */6   *   * * *   root    sleep `shuf -i 1-180 -n 1`; python /mnt/web0/upload/sendstats.py
 */5   *   * * *   root    sleep `shuf -i 1-180 -n 1`; python /mnt/web0/upload/fileclient.py
 */7   *   * * *   root    sleep `shuf -i 1-180 -n 1`; python /mnt/web0/upload/sendrecords.py
+<<<<<<< HEAD
 0     *   * * *   root    sleep `shuf -i 1-900 -n 1`; python /mnt/web0/upload/actionsModule.py
+=======
+0     *   * * *   root    sleep `shuf -i 1-300 -n 1`; python /mnt/web0/upload/actionsModule.py
+>>>>>>> 0660cd49a11a625adad0ea3be44cd1ccb88b9cec
 #

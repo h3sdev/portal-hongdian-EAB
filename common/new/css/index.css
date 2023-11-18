@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .welcome-signup {
     margin-top: 20%;
 }
@@ -14,3 +15,21 @@
 .footer {
     display: none !important;
 }
+=======
+.welcome-signup {
+    margin-top: 20%;
+}
+#email {
+    margin-top: 10%;
+}
+.text-center {
+    margin-left: 0;
+}
+.action-button {
+    margin-top: 50px;
+    width: 50%;
+}
+.footer {
+    display: none !important;
+}
+>>>>>>> 0660cd49a11a625adad0ea3be44cd1ccb88b9cec

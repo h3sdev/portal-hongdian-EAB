@@ -15,3 +15,9 @@ video/series/**/*.mp4
 *.mp3
 *.m4v
 upload/storage_tmp/*.zip
+<<<<<<< HEAD
+=======
+/*.zip
+*:Zone.Identifier
+*.swp
+>>>>>>> 0660cd49a11a625adad0ea3be44cd1ccb88b9cec

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="es">
 
@@ -104,4 +105,112 @@
     </script>
 </body>
 
+=======
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+    <meta content="utf-8" http-equiv="encoding">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Bienvenido</title>
+    <!-- Favicon -->
+    <link rel="icon" type="image/jpg" href="../../common/images/logo/logo.png">
+    <link rel="stylesheet" href="../../common/new/css/bootstrap.css">
+    <link rel="stylesheet" href="../../common/css/idangerous.swiper.css">
+    <link rel="stylesheet" href="../../common/new/css/main.css">
+    <!-- Style inputs -->
+    <link rel="stylesheet" href="../../common/new/css/style-inputs.css">
+    <!-- Styles for Mike H3S -->
+    <link rel="stylesheet" href="../../common/new/css/addmodportal.css">
+    <!-- Scripts for checkinternet -->
+    <script src="../../common/new/js/get_cookie.js"></script>
+    <script src="../../common/js/jquery-2.1.3.min.js"></script>
+    <script src="../../common/js/jquery.hongdian.js"></script>
+    <script src="../../common/js/base/base.js"></script>
+    <script src="../../common/js/menu/menu.js"></script>
+    <script src="../../common/js/bootstrap.js"></script>
+    <script src="../../common/js/idangerous.swiper.js"></script>
+    <script src="../../common/js/base/get_ad.js"></script>
+    <!-- Scripts -->
+    <script src="../../common/new/js/uploadPageView.js"></script>
+    <script>
+        var mid = "0001";//Home page number
+        var countSource = "01";
+        var phoneUser = obtenerCookie();
+    </script>
+</head>
+
+<body>
+    <main>
+        <div class="container fluid">
+            <header>
+                <!-- Header logo -->
+                <div class="row">
+                    <div class="col-12">
+                        <div class="header">
+                            <img src="../../common/images/header.jpg" alt="">
+                        </div>
+                        <div class="header-logo">
+                            <img src="../../common/images/top_logo.png" alt="">
+                        </div>
+                    </div>
+                </div>
+            </header>
+            <!-- Slide ad -->
+            <div class="slide-ad">
+                <div id="SignInPage" class="swiper-container">
+                    <div class="news-wrapper swiper-wrapper">
+                        <script type="text/javascript">
+                            getAd('SignInPage');//Id div for contruct content
+                        </script>
+                    </div>
+                </div>
+                <div class="pagination-news"></div>
+            </div>
+            <!-- Welcome Words -->
+            <div class="row">
+                <div class="col-12 col-sm-6 mx-auto d-block text-center">
+                    <h1 class="welcome welcome-signup">¡Bienvenido! </h1>
+                    <h4 class="welcome-val">Para validar tu registro por favor introduce tu número de Celular:</h4>
+                </div>
+            </div>
+            <form id="send_form" method="post">
+                <div class="row">
+                    <div class="col-12 mx-auto d-block text-center">
+                        <!-- Phone -->
+                        <div class="control">
+                            <input id="phone" type="number" pattern="[0-9]+*" name="usr_info" class="form-input"
+                                placeholder="Número de Celular" required>
+                        </div>
+                    </div>
+                </div>
+                <!-- Login -->
+                <div class="row">
+                    <div class="col-12 mx-auto d-block text-center">
+                        <button id="LoginBtn" class="action-button" type="submit">Iniciar Sesión</button>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12 mx-auto d-block text-center stmt">
+                        <div id="warning"></div>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </main>
+    <!-- JS for bootstrap -->
+    <script src="../../common/new/js/frame/popper.min.js"></script>
+    <script src="../../common/new/js/frame/bootstrap.min.js"></script>
+    <!-- Send Form JS -->
+    <script src="../../common/new/js/auth/auth_usr.js"></script>
+    <script>
+        $(function () {
+            pageViewHomeUploadData("01", "signin_page", phoneUser);
+        });
+    </script>
+</body>
+
+>>>>>>> 0660cd49a11a625adad0ea3be44cd1ccb88b9cec
 </html>
