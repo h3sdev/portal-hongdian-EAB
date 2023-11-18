@@ -179,7 +179,6 @@ function pageViewHomeUploadData(){
     }, function() {
     });
 }
-=======
 /**
  * Created by qhao on 2015/4/22.
  */
