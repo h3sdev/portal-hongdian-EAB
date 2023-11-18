@@ -1,0 +1,33 @@
+.news-container {
+
+}
+
+.news-container h2 {
+    text-align: center;
+    font-size: 2em;
+}
+.show-img {
+    background-position: center;
+    background-attachment: local;
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 140px;
+    max-width: 200px;
+    padding: 5px;
+}
+.news-container .title-news {
+    margin-top: 0;
+    text-align: left;
+    font-size: 1.4em;
+}
+.news-container .title-news:hover {
+  color: #087FDB;
+}
+.news-container ul {
+    padding: 0;
+    display: inline-flex;
+    list-style: none;
+}
+.news-container li {
+      max-height: 200px;    
+}

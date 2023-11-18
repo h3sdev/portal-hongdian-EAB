@@ -1,0 +1,68 @@
+<<<<<<< HEAD
+{
+    "interval": "5",
+    "img": [
+        {
+            "handler": {},
+            "href": "",
+            "id": "060001_01",
+            "imgsrc": "../../advertisement/image/musicslide/060001_001.jpg",
+            "title": "MusicAdSlide_01"
+        },
+        {
+            "handler": {},
+            "href": "",
+            "id": "060001_02",
+            "imgsrc": "../../advertisement/image/musicslide/060001_002.jpg",
+            "title": "MusicAdSlide_02"
+        },
+        {
+            "handler": {},
+            "href": "",
+            "id": "060001_03",
+            "imgsrc": "../../advertisement/image/musicslide/060001_003.jpg",
+            "title": "MusicAdSlide_03"
+        },
+        {
+            "handler": {},
+            "href": "",
+            "id": "060001_04",
+            "imgsrc": "../../advertisement/image/musicslide/060001_004.jpg",
+            "title": "Serie7AdSlide_04"
+        }
+    ]
+=======
+{
+    "interval": "5",
+    "img": [
+        {
+            "handler": {},
+            "href": "",
+            "id": "060001_01",
+            "imgsrc": "../../advertisement/image/musicslide/060001_001.jpg",
+            "title": "MusicAdSlide_01"
+        },
+        {
+            "handler": {},
+            "href": "",
+            "id": "060001_02",
+            "imgsrc": "../../advertisement/image/musicslide/060001_002.jpg",
+            "title": "MusicAdSlide_02"
+        },
+        {
+            "handler": {},
+            "href": "",
+            "id": "060001_03",
+            "imgsrc": "../../advertisement/image/musicslide/060001_003.jpg",
+            "title": "MusicAdSlide_03"
+        },
+        {
+            "handler": {},
+            "href": "",
+            "id": "060001_04",
+            "imgsrc": "../../advertisement/image/musicslide/060001_004.jpg",
+            "title": "Serie7AdSlide_04"
+        }
+    ]
+>>>>>>> 0660cd49a11a625adad0ea3be44cd1ccb88b9cec
+}

@@ -1,0 +1,117 @@
+<<<<<<< HEAD
+.form-input {
+    text-align: center;
+    color: #000000;
+    padding: 5px;
+    margin-top: 10px;
+    width: 80%;
+    background: transparent;
+    border-radius: 30px;
+    border: 2px solid #005baa;
+    background-color: transparent;
+    font-size: 1.2em;
+}
+.title-select, option {
+    margin-top: 5px;
+    font-weight: 700;
+    text-align: center;
+    color: #848484;
+    background: transparent;
+    background-color: transparent;
+    font-size: 1.2em;
+}
+.form-input-select {
+    text-align: center;
+    color: #000000;
+    padding: 5px;
+    width: 25%;
+    background: transparent;
+    border-radius: 30px;
+    border: 2px solid #005baa;
+    background-color: transparent;
+    font-size: 1.2em;
+}
+.form-input[type='date'] {
+    font-weight: 700;
+    text-align: center;
+    color: #848484;
+    background: transparent;
+    background-color: transparent;
+    font-size: 1.2em;
+}
+::placeholder, select { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    font-weight: 700;
+    text-align: center;
+    color: #848484 !important;
+    opacity: 1; /* Firefox */
+}
+.icons {
+    color: #005baa;
+    right: 22%;
+    margin-top: 25px;
+    position: absolute;
+}
+.stmt {
+    font-size: 1em;
+    margin-top: 2%;
+    color: red;
+}
+=======
+.form-input {
+    text-align: center;
+    color: #000000;
+    padding: 5px;
+    margin-top: 10px;
+    width: 80%;
+    background: transparent;
+    border-radius: 30px;
+    border: 2px solid #005baa;
+    background-color: transparent;
+    font-size: 1.2em;
+}
+.title-select, option {
+    margin-top: 5px;
+    font-weight: 700;
+    text-align: center;
+    color: #848484;
+    background: transparent;
+    background-color: transparent;
+    font-size: 1.2em;
+}
+.form-input-select {
+    text-align: center;
+    color: #000000;
+    padding: 5px;
+    width: 25%;
+    background: transparent;
+    border-radius: 30px;
+    border: 2px solid #005baa;
+    background-color: transparent;
+    font-size: 1.2em;
+}
+.form-input[type='date'] {
+    font-weight: 700;
+    text-align: center;
+    color: #848484;
+    background: transparent;
+    background-color: transparent;
+    font-size: 1.2em;
+}
+::placeholder, select { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    font-weight: 700;
+    text-align: center;
+    color: #848484 !important;
+    opacity: 1; /* Firefox */
+}
+.icons {
+    color: #005baa;
+    right: 22%;
+    margin-top: 25px;
+    position: absolute;
+}
+.stmt {
+    font-size: 1em;
+    margin-top: 2%;
+    color: red;
+}
+>>>>>>> 0660cd49a11a625adad0ea3be44cd1ccb88b9cec

@@ -1,0 +1,23 @@
+# /etc/crontab: system-wide crontab
+# Unlike any other crontab you don't have to run the `crontab'
+# command to install the new version when you edit this file
+# and files in /etc/cron.d. These files also have username fields,
+# that none of the other crontabs do.
+
+SHELL=/bin/sh
+PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
+
+# m h dom mon dow user	command
+17    *   * * *   root    cd / && run-parts --report /etc/cron.hourly
+25    6   * * *   root    test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily )
+47    6   * * 7   root    test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.weekly )
+52    6   1 * *   root    test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.monthly )
+*/6   *   * * *   root    sleep `shuf -i 1-180 -n 1`; python /mnt/web0/upload/sendstats.py
+*/5   *   * * *   root    sleep `shuf -i 1-180 -n 1`; python /mnt/web0/upload/fileclient.py
+*/7   *   * * *   root    sleep `shuf -i 1-180 -n 1`; python /mnt/web0/upload/sendrecords.py
+<<<<<<< HEAD
+0     *   * * *   root    sleep `shuf -i 1-900 -n 1`; python /mnt/web0/upload/actionsModule.py
+=======
+0     *   * * *   root    sleep `shuf -i 1-300 -n 1`; python /mnt/web0/upload/actionsModule.py
+>>>>>>> 0660cd49a11a625adad0ea3be44cd1ccb88b9cec
+#

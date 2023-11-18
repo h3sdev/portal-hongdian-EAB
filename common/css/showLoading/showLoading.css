@@ -1,0 +1,28 @@
+<<<<<<< HEAD
+.loading-indicator {
+	height: 80px;
+	width: 80px;
+	background: url( '../../../common/images/loading.gif' );
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+.loading-indicator-overlay {
+	background-color: #FFFFFF;
+	opacity: 0.3;
+	filter: alpha(opacity = 30);
+=======
+.loading-indicator {
+	height: 80px;
+	width: 80px;
+	background: url( '../../../common/images/loading.gif' );
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+.loading-indicator-overlay {
+	background-color: #FFFFFF;
+	opacity: 0.3;
+	filter: alpha(opacity = 30);
+>>>>>>> 0660cd49a11a625adad0ea3be44cd1ccb88b9cec
+}

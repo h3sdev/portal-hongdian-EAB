@@ -1,0 +1,159 @@
+<<<<<<< HEAD
+
+/*media 不同大小的设备时容器的宽度*/
+#showAdDiv{position: relative;}
+/* modul */
+.content-modul{
+    width: 100%;
+    display: flex;
+    justify-content: center ;
+    align-items: center;                
+}
+.modul-padding-left{
+    width: 100%;
+    display: flex;
+    position: relative;
+}
+.col-xs-6{
+    float:none;
+}
+.modul-padding-right{
+    width: 100%;
+    display: flex;
+    position: relative;
+}   
+/* Most Small Cell */
+@media (max-height: 568px) and (orientation: portrait) {
+    .img-responsive{
+        width: 70%;
+        padding: 5px;
+        margin: auto;
+    }      
+}
+@media (min-height: 568px) and (orientation: portrait) {
+    .content-modul {
+        margin-top: 15%;
+    }
+    .img-responsive{
+        width: 70%;
+        padding: 5px;
+        margin: auto;
+    }      
+}
+@media (min-width: 480px) and (orientation: landscape) {
+    .header {
+        height: 45px;
+    }
+    .content-modul {
+        margin-bottom: 60px;
+    }
+    .img-responsive {
+        margin: auto;
+        width: 70%;
+        padding: 5px 5px 0;
+    }
+    #contentBottom .img-responsive {
+        width: 56%;
+    }
+}
+@media (min-width: 800px) and (orientation: landscape) {
+    .header {
+        height: 45px;
+    }
+    .content-modul {
+        margin-bottom: 60px;
+    }
+    .img-responsive {
+        padding-left: 10px;
+        width: 70%;
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .modul-padding-right {
+        padding: 5px;
+        margin-left: 10%;
+    }
+    #contentBottom .img-responsive {
+        width: 56%;
+    }
+}
+=======
+
+/*media 不同大小的设备时容器的宽度*/
+#showAdDiv{position: relative;}
+/* modul */
+.content-modul{
+    width: 100%;
+    display: flex;
+    justify-content: center ;
+    align-items: center;                
+}
+.modul-padding-left{
+    width: 100%;
+    display: flex;
+    position: relative;
+}
+.col-xs-6{
+    float:none;
+}
+.modul-padding-right{
+    width: 100%;
+    display: flex;
+    position: relative;
+}   
+/* Most Small Cell */
+@media (max-height: 568px) and (orientation: portrait) {
+    .img-responsive{
+        width: 70%;
+        padding: 5px;
+        margin: auto;
+    }      
+}
+@media (min-height: 568px) and (orientation: portrait) {
+    .content-modul {
+        margin-top: 15%;
+    }
+    .img-responsive{
+        width: 70%;
+        padding: 5px;
+        margin: auto;
+    }      
+}
+@media (min-width: 480px) and (orientation: landscape) {
+    .header {
+        height: 45px;
+    }
+    .content-modul {
+        margin-bottom: 60px;
+    }
+    .img-responsive {
+        margin: auto;
+        width: 70%;
+        padding: 5px 5px 0;
+    }
+    #contentBottom .img-responsive {
+        width: 56%;
+    }
+}
+@media (min-width: 800px) and (orientation: landscape) {
+    .header {
+        height: 45px;
+    }
+    .content-modul {
+        margin-bottom: 60px;
+    }
+    .img-responsive {
+        padding-left: 10px;
+        width: 70%;
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .modul-padding-right {
+        padding: 5px;
+        margin-left: 10%;
+    }
+    #contentBottom .img-responsive {
+        width: 56%;
+    }
+}
+>>>>>>> 0660cd49a11a625adad0ea3be44cd1ccb88b9cec

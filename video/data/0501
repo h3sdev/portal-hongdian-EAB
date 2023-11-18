@@ -1,0 +1,38 @@
+[
+	{
+		"id":"0501_001",
+		"img":"../image/series/0501_001.jpg",
+		"plot":"",
+		"poster":"Serie 1",
+		"src":"../video/series/serie1/0405_001.mp4",
+		"pub":"../video/preroll/0500.mp4",
+		"title":"Peppa Pig EP1"
+	},
+	{
+		"id":"0501_002",
+		"img":"../image/series/0501_001.jpg",
+		"plot":"",
+		"poster":"Serie 1",
+		"src":"../video/series/serie1/0405_002.mp4",
+		"pub":"../video/preroll/0500.mp4",
+		"title":"Peppa Pig EP2"
+	},
+	{
+		"id":"0501_003",
+		"img":"../image/series/0501_001.jpg",
+		"plot":"",
+		"poster":"Serie 1",
+		"src":"../video/series/serie1/0405_003.mp4",
+		"pub":"../video/preroll/0500.mp4",
+		"title":"Peppa Pig EP3"
+	},
+	{
+		"id":"0501_004",
+		"img":"../image/series/0501_001.jpg",
+		"plot":"",
+		"poster":"Serie 1",
+		"src":"../video/series/serie1/0405_004.mp4",
+		"pub":"../video/preroll/0500.mp4",
+		"title":"Peppa Pig EP4"
+	}
+]

@@ -1,0 +1,282 @@
+<<<<<<< HEAD
+@charset "utf-8";
+#loader {
+    position: fixed;
+    z-index: 999;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: none;
+  }
+  
+  #loader img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, button, textarea, p, blockquote, th, td {
+	margin: 0;
+	padding: 0;
+    font: normal 100%  Arial,"宋体","Microsoft Yahei",Verdana, Lucida Grande, Lucida Sans,sans-serif;
+    font-size: 3rem;
+}
+ h2, h3, h4, h5, h6 {
+	color: #181818;
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight: 500;
+}
+h1 {
+    font-weight: 600;
+    font-size: larger;
+    padding: 1%;
+}
+img, object, audio {
+	max-height: 100%;
+	max-width: 100%;
+}
+.container {
+    padding: 0;
+   
+}
+.firstText {
+    margin-top: 2%;
+    text-align: center;
+    text-justify: inter-character;
+}
+
+.btn {
+    margin: 8%;
+    padding: 4%;
+    font-size: larger;
+}
+.container_msm{
+    display: flex;
+	justify-content: center;
+    align-items: flex-start;
+    text-align: center;
+    min-height: 100%;
+    width: 100%;
+    line-height: 100%;
+    padding: 5%;
+}
+.after_auth {
+    margin: auto;
+	width: 100%;
+}
+.after_msm {
+    margin: auto;
+	width: 100%;
+}
+.after_msm h1 {
+    font-size: 4em;
+    margin: 10%;
+    font-weight: bold;
+}
+.ms_text_after {
+    font-size: 3.0em;
+}
+.company_name {
+    font-weight: bold;
+}
+.url_comp {
+    font-weight: bold;
+    color:#003e6f; 
+}
+@media (max-height: 568px) and (orientation: portrait) {
+    .container_msm{
+        line-height: 30pt;
+        padding: 10%;
+    }
+    .after_msm h1 {
+        padding-bottom: 5%;
+        font-size: 3em;
+        margin: 0 10% 0 10%;
+        font-weight: bold;
+    }
+    .ms_text_after {
+        font-size: 2.2em;
+    }
+}
+
+
+/*added by diego 2023-04-20*/
+#loader {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 9999;
+    background-color: rgba(0, 0, 0, 0.5);
+  }
+  
+  .spinner {
+    border: 5px solid #f3f3f3;
+    border-top: 5px solid #3498db;
+    border-radius: 50%;
+    width: 5rem;
+    height: 5rem;
+    animation: spin 1s linear infinite;
+  }
+  
+  @keyframes spin {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+  
+  #content {
+    display: none;
+  }
+=======
+@charset "utf-8";
+#loader {
+    position: fixed;
+    z-index: 999;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: none;
+  }
+  
+  #loader img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, button, textarea, p, blockquote, th, td {
+	margin: 0;
+	padding: 0;
+    font: normal 100%  Arial,"宋体","Microsoft Yahei",Verdana, Lucida Grande, Lucida Sans,sans-serif;
+    font-size: 3rem;
+}
+ h2, h3, h4, h5, h6 {
+	color: #181818;
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight: 500;
+}
+h1 {
+    font-weight: 600;
+    font-size: larger;
+    padding: 1%;
+}
+img, object, audio {
+	max-height: 100%;
+	max-width: 100%;
+}
+.container {
+    padding: 0;
+   
+}
+.firstText {
+    margin-top: 2%;
+    text-align: center;
+    text-justify: inter-character;
+}
+
+.btn {
+    margin: 8%;
+    padding: 4%;
+    font-size: larger;
+}
+.container_msm{
+    display: flex;
+	justify-content: center;
+    align-items: flex-start;
+    text-align: center;
+    min-height: 100%;
+    width: 100%;
+    line-height: 100%;
+    padding: 5%;
+}
+.after_auth {
+    margin: auto;
+	width: 100%;
+}
+.after_msm {
+    margin: auto;
+	width: 100%;
+}
+.after_msm h1 {
+    font-size: 4em;
+    margin: 10%;
+    font-weight: bold;
+}
+.ms_text_after {
+    font-size: 3.0em;
+}
+.company_name {
+    font-weight: bold;
+}
+.url_comp {
+    font-weight: bold;
+    color:#003e6f; 
+}
+@media (max-height: 568px) and (orientation: portrait) {
+    .container_msm{
+        line-height: 30pt;
+        padding: 10%;
+    }
+    .after_msm h1 {
+        padding-bottom: 5%;
+        font-size: 3em;
+        margin: 0 10% 0 10%;
+        font-weight: bold;
+    }
+    .ms_text_after {
+        font-size: 2.2em;
+    }
+}
+
+
+/*added by diego 2023-04-20*/
+#loader {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 9999;
+    background-color: rgba(0, 0, 0, 0.5);
+  }
+  
+  .spinner {
+    border: 5px solid #f3f3f3;
+    border-top: 5px solid #3498db;
+    border-radius: 50%;
+    width: 5rem;
+    height: 5rem;
+    animation: spin 1s linear infinite;
+  }
+  
+  @keyframes spin {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+  
+  #content {
+    display: none;
+  }
+>>>>>>> 0660cd49a11a625adad0ea3be44cd1ccb88b9cec
+  

@@ -1,0 +1,26 @@
+<<<<<<< HEAD
+{
+    "interval": "5",
+    "img": [
+        {
+            "handler": {},
+            "href": "",
+            "id": "000102_01",
+            "imgsrc": "../../advertisement/image/signupslide/000102_001.jpg",
+            "title": "AdSignUp_01"
+        }
+    ]
+=======
+{
+    "interval": "5",
+    "img": [
+        {
+            "handler": {},
+            "href": "",
+            "id": "000102_01",
+            "imgsrc": "../../advertisement/image/signupslide/000102_001.jpg",
+            "title": "AdSignUp_01"
+        }
+    ]
+>>>>>>> 0660cd49a11a625adad0ea3be44cd1ccb88b9cec
+}
