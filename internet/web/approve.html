@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Internet</title>
+    <link rel="icon" type="image/jpg" href="../../common/images/logo/logo.png">
+    <link rel="stylesheet" type="text/css" href="../../common/css/showLoading/showLoading.css" />
+    <link rel="stylesheet" type="text/css" href="../../common/css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="../../common/css/idangerous.swiper.css">
+    <link rel="stylesheet" type="text/css" href="../../common/css/public.css">
+    <link rel="stylesheet" type="text/css" href="../css/internet.css">
+    <link rel="stylesheet" href="../../common/new/css/addmodportal.css">
+    <link rel="stylesheet" href="../../common/new/css/main.css">
+
+    <script src="../../common/new/js/get_cookie.js"></script>
+    <script src="../../common/js/jquery-2.1.3.min.js"></script>
+    <script src="../../common/js/jquery.hongdian.js"></script>
+    <script src="../../common/js/base/base.js"></script>
+    <script src="../../common/js/menu/menu.js"></script>
+    <script src="../../common/js/bootstrap.js"></script>
+    <script src="../../common/js/idangerous.swiper.js"></script>
+    <script src="../../common/js/jquery.showLoading.min.js"></script>
+    <script src="../../common/js/base/get_ad.js"></script>
+    <script src="../js/approve.js"></script>
+    <script>
+        var mid = "0801";//Home page number
+        var countSource = "01";
+        var phoneUser = getPhoneUser();
+        console.log(phoneUser);
+    </script>
+</head>
+
+<body>
+
+    <div id="" class="login_container">
+        <div class="container">
+            <div class="header">
+                <img src="../../common/images/header.jpg" alt="">
+            </div>
+            <div class="header-logo">
+                <img src="../../common/images/top_logo.png" alt="">
+            </div>
+            <div class="slide-ad">
+                <div id="internetAdSlide" class="swiper-container">
+                    <div class="travel-wrapper swiper-wrapper">
+                        <script>
+                            getAd('internetAdSlide');
+                            setSwiperHeight();/*设置swiper的高度*/
+                        </script>
+                    </div>
+                </div>
+                <div class="pagination-news"></div>
+            </div>
+            <div class="login">
+                <div class="login_tabs">
+                    <ul class="nav nav-tabs" id="otherInfoTab">
+                        <li><a href="#time_line" id="surf">Internet Copetran</a></li>
+                    </ul>
+                </div>
+
+                <div class="tab-content">
+                    <div class="surf_internet tab-pane" id="time_line">
+                        <div class="logo_cntr"></div>
+                        <div id="Agree_info">
+                            <!--<input type="checkbox" id="Agree_checkbox" checked />-->
+                            <div class="agree_checkbox">
+                                <div id="agreeCheckBox" checkValue="1" class="agree_img"><img
+                                        src="../images/checkBox_choice.png" /></div>
+                                <label>Acepto los
+                                    <a href="notice.html">T&eacute;rminos y condiciones</a> de uso.
+                                </label>
+                            </div>
+                        </div>
+                        <div class="btn_cntr">
+                            <div id="LoginBtn" class="register_cntr">
+                                <span>Ir a Internet </span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="tab-pane other_login" id="complain">
+                        <div class="other_login_div">
+                            <div class="error_detail">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <footer>
+            <div class="row">
+                <div class="col-12 footer">
+                    <div class="back_btn" id="back_btn"></div>
+                    <div class='menu-btn'></div>
+                </div>
+            </div>
+        </footer>
+    </div>
+    <script src="../../common/new/js/back.js"></script>
+</body>
+
+</html>

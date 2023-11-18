@@ -1,0 +1,121 @@
+#!/bin/sh
+#
+# rc.local
+#
+# This script is executed at the end of each multiuser runlevel.
+# Make sure that the script will "exit 0" on success or any other
+# value on error.
+#
+# In order to enable or disable this script just change the execution
+# bits.
+#
+# By default this script does nothing.
+
+
+echo 1 1 > /proc/sys/vm/lowmem_reserve_ratio
+
+x=$(lsmod | grep compat |awk '{print $2}')
+if [ -z ${x} ]; then
+    insmod /bus/wifi_driver/compat.ko
+    insmod /bus/wifi_driver/cfg80211.ko
+    insmod /bus/wifi_driver/mac80211.ko
+    insmod /bus/wifi_driver/ath.ko
+    insmod /bus/wifi_driver/ath9k_hw.ko
+    insmod /bus/wifi_driver/ath9k_common.ko
+    insmod /bus/wifi_driver/ath9k.ko
+    insmod /bus/wireless/8821au.ko rtw_vht_enable=2
+    insmod /bus/wireless/8812au.ko rtw_vht_enable=2
+   # insmod /bus/wifi_driver/8192ce.ko rtw_wifi_spec=1
+    insmod /bus/wifi_driver/8192ce_mp.ko rtw_wifi_spec=1
+    insmod /bus/wireless/GobiSerial.ko
+    insmod /bus/wireless/GobiNet.ko
+    insmod /bus/wireless/sim7100/GobiSerial_SIM7100.ko
+    insmod /bus/wireless/sim7100/cdc-wdm.ko
+    insmod /bus/wireless/sim7100/qmi_wwan.ko
+    insmod /bus/wireless/sim7100/EC25GobiNet.ko
+fi
+
+insmod /bus/sh/fuse.ko
+
+s=$(lsmod | grep cp210x |awk '{print $2}')
+if [ -z ${s} ]; then
+    insmod /bus/ibeacon_drv/cp210x.ko
+fi
+
+t=$(lsmod | grep btusb |awk '{print $2}')
+if [ -z ${t} ]; then
+    rmmod btusb
+    rmmod bluetooth
+    insmod /bus/ibeacon_drv/bluetooth.ko
+    insmod /bus/ibeacon_drv/btusb.ko
+fi
+
+
+z=$(cat /proc/mounts | grep "/var/spool/squid")
+if [ -z ${z} ]; then
+    mount -t tmpfs tmpfs /var/spool/squid
+    cp /root/squid/* /var/spool/squid/ -rf
+    chmod 777 /var/spool/squid/ -R
+    chmod 600 /var/spool/cron/ -R
+fi
+
+if [ -e /etc/resolv.conf ]; then
+    rm -f /etc/resolv.conf
+fi
+ln -s /tmp/resolv.conf /etc/resolv.conf
+
+if [ ! -s /lib/libhdg3.so.backup ]; then
+    cp /lib/libhdg3.so /lib/libhdg3.so.backup
+fi
+
+if [ ! -s /lib/libhdg3.so ]; then
+    cp /lib/libhdg3.so.backup /lib/libhdg3.so
+fi
+
+if [ ! -s /root/hdinit ]; then
+    cp /bus/hdinit /root/hdinit
+fi
+
+if [ ! -s /bus/hdinit ]; then
+    cp /root/hdinit /bus/hdinit
+fi
+
+
+y=$(cat /proc/nand/nand_exist | grep 0 )
+if [ ! -z ${y} ]; then
+    mount /dev/mmcblk0p3 /mnt/nand
+else
+    ubiattach /dev/ubi_ctrl -m 4
+    mount -t ubifs ubi1_0 /mnt/nand
+fi
+
+chmod 644 /etc/ssh/*
+chmod 600 /etc/ssh/ssh_host_dsa_key
+chmod 600 /etc/ssh/ssh_host_rsa_key
+
+z=$(ps ax | grep /bus/mp -m 1| grep -v grep| awk '{print $5}')
+m=$(ps ax | grep /mnt/update/mp -m 1| grep -v grep| awk '{print $5}')
+h=$(ps ax | grep /bus/hdinit -m 1| grep -v grep| awk '{print $5}')
+
+if [ -z ${z} ] && [ -z ${m} ] && [ -z ${h} ]; then
+    /bus/hdinit &
+fi
+
+p=$(ps ax | grep monitor_process.sh | grep -v grep| awk '{print $6}')
+if [ -z ${p} ]; then
+    /etc/monitor_process.sh&
+fi
+
+brctl addbr br0
+brctl addif br0 wlan0
+brctl addif br0 wlan0_0
+brctl addif br0 wlan0_1
+brctl addif br0 wlan0_2
+brctl addif br0 wlan1
+
+install -d /var/spool/cron/crontabs/
+chmod -R 0555 /bin /sbin /usr /lib /bus
+
+./root/stats.sh
+
+exit 0

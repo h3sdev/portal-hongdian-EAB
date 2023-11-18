@@ -1,0 +1,242 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+/*media 不同大小的设备时容器的宽度*/
+.container{padding-right: 0px;padding-left: 0px;}
+.img-inline{display: inline;}
+
+/* header */
+.header{height: 40px;}
+.header-center{width: 180px;padding-top: 5px;}
+/* slide advertisement*/
+.swiper-slide{ height: 100px !important; }
+.swiper-slide img { width: 100% !important; height: 100px !important;}
+.slide-ad{ width: 100% !important; text-align: center;position: relative; height: 100px !important;}
+.swiper-container {height: 100px !important;}
+/*菜单导航*/
+.tabs-navbar{position: relative;padding:0;/*background-color: #f0f0f0;*/height: 35px;}
+.tabs-navbar ul{margin: 0;padding: 0;overflow:hidden;}/*解决子元素使用了float属性后离当前HTML文档流，当前HTML文档会当作设置float属性的元素不存在一样，使的父元素的高度为0*/
+.tabs-navbar li{position: relative;display: inline;height: 40px;line-height: 40px;text-align: center;font-size: 18px;}
+.nav-active{background-color: #3399ff;color: #ffffff;}
+/*更多信息*/
+.more_info_container {float: left;width: 100%;height: 40px;line-height: 40px;text-align: center;margin-top: 20px;border-top: 1px solid #d6e0e5;font-size: 16px;font-weight: bold;}
+.more_info {color: #699f00;}
+
+.back_btn {position: absolute; margin-left: 5px; width: 50px;height: 45px;background: url(../images/arrow.png) no-repeat;background-size: 40px 40px;}
+/*slide ad*/
+.pagination-news {position: absolute;text-align: center;bottom: 5px;z-index: 100; width: 100%;}
+/***选中的菜单样式**/
+.cur_menu{background-color: #21ca41 !important;color: #ffffff !important;}
+
+.tabs-navbar li{
+    position: relative;
+    display: inline;
+    height: 35px;
+    line-height: 35px;
+    text-align: center;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-active {
+    background: none;
+    /*color: #3399ff;*/
+    color: #ff0000;
+    font-weight: bolder;
+}
+
+.tabs-navbar li span{
+    margin-bottom: -5px;
+}
+/*.sec-menu-img{width:38px;height: 38px; margin: 5px auto 0 auto; }*/
+.sec-menu-line{height:2px;margin: -1px auto 0 auto;padding: 0;border:2px solid #ff0000;/*border:2px solid #3399ff;*//*border-top: 0px solid #3399ff*/}
+
+
+.img-responsive{
+    width: 100%;
+    padding: 5px;
+}
+@media (min-width: 640px) and (orientation: landscape) {
+  .container {
+    width: 100%;
+  }
+  .slide-ad{
+    text-align: center;
+    position: relative; 
+    height: 100px;
+  }
+  .swiper-container {
+    height: 100px;
+  }
+  .video-img{
+    width: 70%;
+  }
+}
+@media (min-width: 768px) and (orientation: landscape) {
+  .container {width: 100%;}
+  .slide-ad{text-align: center;position: relative; width: 100%;}
+  .swiper-container {width: 720px;}
+  .img-responsive{
+    width: 100%;
+  }
+  .video-img{
+    width: 70%;
+  }
+}
+@media (min-width: 800px) and (orientation: landscape) {
+  .container {width: 100%;}
+  .swiper-container {width: 720px;}
+  .img-responsive{
+    width: 100%;
+  }
+  .video-img{
+    width: 70%;
+  }
+  .slide-ad{
+    text-align: center;
+    position: relative; 
+    height: 150px !important;
+  }
+  .swiper-container {
+    height: 150px !important;
+  }
+  .swiper-slide img {
+    height: 150px !important;
+  }
+}
+.col-12{
+    padding: 0;
+}
+.header img{
+    width: 100%;
+    height: 50px;
+    position: relative;
+}
+.header-call img{
+    width: 100%;
+    height: 50px;
+    position: absolute;
+    float: right;
+}
+.header-logo img {
+    margin: -35px 0 0 30px ;
+    height: 28px;
+    position: absolute;
+    float: left;
+    z-index: 1;
+}
+button {
+    background: none;
+    border: 0;
+    color: inherit;
+    /* cursor: default; */
+    font: inherit;
+    line-height: normal;
+    overflow: visible;
+    padding: 0;
+    -webkit-user-select: none; /* for button */
+     -webkit-appearance: button; /* for input */
+       -moz-user-select: none;
+        -ms-user-select: none;
+}
+
+  .background {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-color: rgba(235, 228, 228, 0.281);
+    filter:brightness(0.3);
+    opacity:0.8;
+    height: 100%;
+    background-position: center;
+    position: fixed;
+  }
+
+.logo {
+    text-align: center;
+    padding-top: 50px;
+    width: 70%;
+}
+.welcome {
+    font-weight: 900;
+    font-size: 2.5em;
+    color: #005baa;
+}
+.welcome-val {
+    padding: 0 10px 0 10px;
+    margin-top: 10%;
+    font-size: 1.2em;
+    color: #005baa;
+}
+.welcome-signup {
+    font-size: 2.3em;
+    margin-top: 8%;
+}
+.separator {
+    height: 140px;
+}
+.action-button-signup {
+    width: 100%;
+    padding: 0 0 30px 0;
+
+}
+.action-button {
+    font-size: 1.2em;
+    font-weight: 700;
+    margin-top: 10px;
+    width: 50%;
+    padding: 10px;
+    border-radius: 15px;
+    color: #ffffff;
+    border: 1px solid #35b3a0;
+    background-color: #005baa;
+}
+.terms {
+    font-weight: 900;
+    font-size: 0.8em;
+    color: #005baa;
+    margin-top: 5%;
+}
+.terms a {
+    color: #eb1f2d;
+}  
+.stmt {
+    font-size: 1em;
+    margin-top: 2%;
+    height: 5px;
+    color: #eb1f2d;
+}
+@media only screen and (max-height: 568px) and (orientation: portrait){
+    .welcome-signup {
+        font-size: 1.7em;
+        margin-top: 5%;
+    }
+    .separator {
+        height: 100px;
+    }
+    .terms {
+        font-weight: 900;
+        font-size: 0.8em;
+        color: #005baa;
+        margin-top: 10px;
+    }
+    .footer {
+        display: none;
+    }
+  }
+@media only screen and (max-height: 620px) {
+    .footer {
+        display: none;
+    }
+}
+@media only screen and (min-width: 800px) and (orientation: landscape){
+    .welcome-signup {
+        font-size: 1.8em;
+        margin-top: 2% !important;
+    }
+    .footer {
+        display: none !important;
+    }
+}

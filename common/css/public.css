@@ -1,0 +1,126 @@
+@charset "utf-8";
+/* CSS Document */
+html, body {height: 100%;width: 100%;margin: 0;padding: 0;font: 12px Arial,"宋体","Microsoft Yahei";}
+/*bootstrap style class*/
+.list-group-item:first-child {border-top-left-radius: 0px; border-top-right-radius: 0px;}
+.list-group-item:last-child {border-bottom-right-radius: 0px;border-bottom-left-radius: 0px;}
+.row {margin-right: 0px;margin-left: 0px;}
+.col-xs-1, .col-sm-1, .col-md-1, .col-lg-1, .col-xs-2, .col-sm-2, .col-md-2, .col-lg-2, .col-xs-3, .col-sm-3, .col-md-3, .col-lg-3, .col-xs-4, .col-sm-4, .col-md-4, .col-lg-4, .col-xs-5, .col-sm-5, .col-md-5, .col-lg-5, .col-xs-6, .col-sm-6, .col-md-6, .col-lg-6, .col-xs-7, .col-sm-7, .col-md-7, .col-lg-7, .col-xs-8, .col-sm-8, .col-md-8, .col-lg-8, .col-xs-9, .col-sm-9, .col-md-9, .col-lg-9, .col-xs-10, .col-sm-10, .col-md-10, .col-lg-10, .col-xs-11, .col-sm-11, .col-md-11, .col-lg-11, .col-xs-12, .col-sm-12, .col-md-12, .col-lg-12 {
+ padding-right: 0px;
+ padding-left: 0px;
+}
+
+/*media 不同大小的设备时容器的宽度*/
+.container{padding-right: 0px;padding-left: 0px;}
+.img-inline{display: inline;}
+
+/* header */
+.header{height: 40px;}
+.header-center{width: 180px;padding-top: 5px;}
+
+/**一级菜单**/
+.main_menu{background-color: #eeeeee;overflow: hidden;height: 35px;line-height:35px;text-align:center;font-size:18px;}
+.main_menu .nav > li > a{padding: 0;color: #21ca41;}
+.main_menu .nav > li > a:hover , .main_menu .nav > li > a:focus{background-color: transparent;}
+.menu-ul .col-xs-3{width: 25%;}
+.menu_a{z-index: 1001;}
+
+/* menu */
+.menu-btn {position: absolute;margin-left: 55px; width: 50px;height: 45px;background: url(../images/cityPasshome_home.png) no-repeat;background-size: 40px 40px;}
+/* slide advertisement*/
+.swiper-slide{ height: 100px;}
+.swiper-slide img { width: 100% !important; height: 100px !important;}
+.slide-ad{ width: 100% !important; text-align: center;position: relative; height: 100px !important;}
+.swiper-container {height: 100px !important;}
+/*菜单导航*/
+.tabs-navbar{position: relative;padding:0;/*background-color: #f0f0f0;*/height: 35px;}
+.tabs-navbar ul{margin: 0;padding: 0;overflow:hidden;}/*解决子元素使用了float属性后离当前HTML文档流，当前HTML文档会当作设置float属性的元素不存在一样，使的父元素的高度为0*/
+.tabs-navbar li{position: relative;display: inline;height: 40px;line-height: 40px;text-align: center;font-size: 18px;}
+.nav-active{background-color: #3399ff;color: #ffffff;}
+/*更多信息*/
+.more_info_container {float: left;width: 100%;height: 40px;line-height: 40px;text-align: center;margin-top: 20px;border-top: 1px solid #d6e0e5;font-size: 16px;font-weight: bold;}
+.more_info {color: #699f00;}
+
+.back_btn {position: absolute; margin-left: 5px; width: 50px;height: 45px;background: url(../images/arrow.png) no-repeat;background-size: 40px 40px;}
+/*slide ad*/
+.pagination-news {position: absolute;text-align: center;bottom: 5px;z-index: 100; width: 100%;}
+/***选中的菜单样式**/
+.cur_menu{background-color: #21ca41 !important;color: #ffffff !important;}
+
+.tabs-navbar li{
+    position: relative;
+    display: inline;
+    height: 35px;
+    line-height: 35px;
+    text-align: center;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-active {
+    background: none;
+    /*color: #3399ff;*/
+    color: #ff0000;
+    font-weight: bolder;
+}
+
+.tabs-navbar li span{
+    margin-bottom: -5px;
+}
+/*.sec-menu-img{width:38px;height: 38px; margin: 5px auto 0 auto; }*/
+.sec-menu-line{height:2px;margin: -1px auto 0 auto;padding: 0;border:2px solid #ff0000;/*border:2px solid #3399ff;*//*border-top: 0px solid #3399ff*/}
+
+
+.img-responsive{
+    width: 100%;
+    padding: 5px;
+}
+@media (min-width: 640px) and (orientation: landscape) {
+  .container {
+    width: 100%;
+  }
+  .slide-ad{
+    text-align: center;
+    position: relative; 
+    height: 100px;
+  }
+  .swiper-container {
+    height: 100px;
+  }
+  .video-img{
+    width: 70%;
+  }
+}
+@media (min-width: 768px) and (orientation: landscape) {
+  .container {width: 100%;}
+  .slide-ad{text-align: center;position: relative; width: 100%;}
+  .swiper-container {width: 720px;}
+  .img-responsive{
+    width: 100%;
+  }
+  .video-img{
+    width: 70%;
+  }
+}
+@media (min-width: 800px) and (orientation: landscape) {
+  .container {width: 100%;}
+  .swiper-container {width: 720px;}
+  .img-responsive{
+    width: 100%;
+  }
+  .video-img{
+    width: 70%;
+  }
+  .slide-ad{
+    text-align: center;
+    position: relative; 
+    height: 150px !important;
+  }
+  .swiper-container {
+    height: 150px !important;
+  }
+  .swiper-slide img {
+    height: 150px !important;
+  }
+}

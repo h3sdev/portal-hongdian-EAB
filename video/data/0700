@@ -1,0 +1,146 @@
+[
+    {
+        "id":"0700_001",
+        "title":"Bon Jovi en Rock in Rio 2017",
+        "img":"../image/others/0700_001.jpg",
+        "src":"../video/lives/0403_001.mp4",
+        "pub":"../video/preroll/0701.mp4",
+        "poster":"Concierto",
+        "plot":"<p>Bon Jovi en Rock in Rio 2017</p>"
+    },
+    {
+        "id":"0700_002",
+        "title":"Carlos Vives en Vina del Mar 2018",
+        "img":"../image/others/0700_002.jpg",
+        "src":"../video/lives/0403_002.mp4",
+        "pub":"../video/preroll/0701.mp4",
+        "poster":"Concierto",
+        "plot":"<p>Carlos Vives en Vina del Mar 2018</p>"
+    },
+    {
+        "id":"0700_003",
+        "title":"Diomedes Diaz en Bogota 2005",
+        "img":"../image/others/0700_003.jpg",
+        "src":"../video/lives/0403_003.mp4",
+        "pub":"../video/preroll/0701.mp4",
+        "poster":"Concierto",
+        "plot":"<p>Diomedes Diaz en Bogota 2005</p>"
+    },
+    {
+        "id":"0700_004",
+        "title":"Guns N Roses en Tokio 1992",
+        "img":"../image/others/0700_004.jpg",
+        "src":"../video/lives/0403_004.mp4",
+        "pub":"../video/preroll/0701.mp4",
+        "poster":"Concierto",
+        "plot":"<p>Guns N Roses en Tokio 1992</p>"
+    },
+    {
+        "id":"0700_005",
+        "title":"Jesse y Joy en Vina del Mar 2018",
+        "img":"../image/others/0700_005.jpg",
+        "src":"../video/lives/0403_005.mp4",
+        "pub":"../video/preroll/0701.mp4",
+        "poster":"Concierto",
+        "plot":"<p>Jesse y Joy en Vina del Mar 2018</p>"
+    },
+    {
+        "id":"0700_006",
+        "title":"Katy Perry en Rock in Rio 2015",
+        "img":"../image/others/0700_006.jpg",
+        "src":"../video/lives/0403_006.mp4",
+        "pub":"../video/preroll/0701.mp4",
+        "poster":"Concierto",
+        "plot":"<p>Katy Perry en Rock in Rio 2015</p>"
+    },
+    {
+        "id":"0700_007",
+        "title":"Maluma en Vina del Mar 2017",
+        "img":"../image/others/0700_007.jpg",
+        "src":"../video/lives/0403_007.mp4",
+        "pub":"../video/preroll/0701.mp4",
+        "poster":"Concierto",
+        "plot":"<p>Maluma en Vina del Mar 2017</p>"
+    },
+    {
+        "id":"0700_008",
+        "title":"Maroon 5 en Rock in Rio 2017",
+        "img":"../image/others/0700_008.jpg",
+        "src":"../video/lives/0403_008.mp4",
+        "pub":"../video/preroll/0701.mp4",
+        "poster":"Concierto",
+        "plot":"<p>Maroon 5 en Rock in Rio 2017</p>"
+    },
+    {
+        "id":"0700_009",
+        "title":"Martin Garrix en Tomorrowland 2017",
+        "img":"../image/others/0700_009.jpg",
+        "src":"../video/lives/0403_009.mp4",
+        "pub":"../video/preroll/0701.mp4",
+        "poster":"Concierto",
+        "plot":"<p>Martin Garrix en Tomorrowland 2017</p>"
+    },
+    {
+        "id":"0700_010",
+        "title":"Metallica en Edmonton Canada 2017",
+        "img":"../image/others/0700_010.jpg",
+        "src":"../video/lives/0403_010.mp4",
+        "pub":"../video/preroll/0701.mp4",
+        "poster":"Concierto",
+        "plot":"<p>Metallica en Edmonton Canada 2017</p>"
+    },
+    {
+        "id":"0700_011",
+        "title":"Pablo Alboran en Vina del Mar 2016",
+        "img":"../image/others/0700_011.jpg",
+        "src":"../video/lives/0403_011.mp4",
+        "pub":"../video/preroll/0701.mp4",
+        "poster":"Concierto",
+        "plot":"<p>Pablo Alboran en Vina del Mar 2016</p>"
+    },
+    {
+        "id":"0700_012",
+        "title":"Queen en Budapest 1986",
+        "img":"../image/others/0700_012.jpg",
+        "src":"../video/lives/0403_012.mp4",
+        "pub":"../video/preroll/0701.mp4",
+        "poster":"Concierto",
+        "plot":"<p></p>"
+    },
+    {
+        "id":"0700_013",
+        "title":"Ricardo Arjona en Vina del Mar 2015",
+        "img":"../image/others/0700_013.jpg",
+        "src":"../video/lives/0403_013.mp4",
+        "pub":"../video/preroll/0701.mp4",
+        "poster":"Concierto",
+        "plot":"<p>Ricardo Arjona en Vina del Mar 2015</p>"
+    },
+    {
+        "id":"0700_014",
+        "title":"Silvestre Dangond en Bogota 2017",
+        "img":"../image/others/0700_014.jpg",
+        "src":"../video/lives/0403_014.mp4",
+        "pub":"../video/preroll/0701.mp4",
+        "poster":"Concierto",
+        "plot":"<p>Silvestre Dangond en Bogota 2017</p>"
+    },
+    {
+        "id":"0700_015",
+        "title":"Sin Bandera en Vina del Mar 2017",
+        "img":"../image/others/0700_015.jpg",
+        "src":"../video/lives/0403_015.mp4",
+        "pub":"../video/preroll/0701.mp4",
+        "poster":"Concierto",
+        "plot":"<p>Sin Bandera en Vina del Mar 2017</p>"
+    },
+    {
+        "id":"0700_016",
+        "title":"Soda Stereo en Buenos Aires 2007",
+        "img":"../image/others/0700_016.jpg",
+        "src":"../video/lives/0403_016.mp4",
+        "pub":"../video/preroll/0701.mp4",
+        "poster":"Concierto",
+        "plot":"<p>Soda Stereo en Buenos Aires 2007</p>"
+    }
+]

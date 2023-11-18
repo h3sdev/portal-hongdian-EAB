@@ -1,0 +1,281 @@
+[
+    {
+        "id":"0401_001",
+        "title":"Dark Waters",
+        "img":"../image/movies/0401_001.jpg",
+        "src":"../video/movies/0401_001.mp4",
+        "pub":"../video/preroll/0401.mp4",
+        "poster":"Movie",
+        "plot":"<p>Inspirada en una impactante historia real. Un tenaz abogado (Mark Ruffalo) descubre el oscuro secreto que conecta un n\u00FAmero creciente de muertes y enfermedades con una de las corporaciones m\u00E1s grandes del mundo. En el proceso arriesga su futuro, su trabajo y hasta su propia familia para sacar a la luz la verdad.</p>"
+    },
+    {
+        "id":"0401_002",
+        "title": "Cruella",
+        "img":"../image/movies/0401_002.jpg",
+        "src":"../video/movies/0401_002.mp4",
+        "pub":"../video/preroll/0401.mp4",
+        "poster":"Movie",
+        "plot" : "<p>Londres, a\u00F1os 70. Decidida a convertirse en una exitosa dise\u00F1adora de moda, una joven y creativa estafadora llamada Estella (Emma Stone) se asocia con un par de ladrones para sobrevivir en las calles de la capital brit\u00E1nica. Pero cuando su talento para la moda llama la atenci\u00F3n de la legendaria dise\u00F1adora, la Baronesa von Hellman (Emma Thompson), Estella cambia el rumbo de su vida hasta que una serie de acontecimientos la llevan a asumir su lado malvado y a convertirse en la estridente y vengativa 'Cruella'.</p>"
+    },
+    {
+        "id":"0401_003",
+        "title": "El Padre",
+        "img":"../image/movies/0401_003.jpg",
+        "src":"../video/movies/0401_003.mp4",
+        "pub":"../video/preroll/0401.mp4",
+        "poster":"Movie",
+        "plot" : "<p>Anthony (Anthony Hopkins), un hombre de 80 a\u00F1os mordaz, algo travieso y que tercamente ha decidido vivir solo, rechaza todos y cada uno de las cuidadoras que su hija Anne (Olivia Colman) intenta contratar para que le ayuden en casa. Est\u00E1 desesperada porque ya no puede visitarle a diario y siente que la mente de su padre empieza a fallar y se desconecta cada vez m\u00E1s de la realidad. Anne sufre la paulatina p\u00E9rdida de su padre a medida que la mente de \u00E9ste se deteriora, pero tambi\u00E9n se aferra al derecho a vivir su propia vida.</p>"
+    },
+    {
+        "id":"0401_004",
+        "title": "Encanto",
+        "img":"../image/movies/0401_004.jpg",
+        "src":"../video/movies/0401_004.mp4",
+        "pub":"../video/preroll/0401.mp4",
+        "poster":"Movie",
+        "plot" : "<p>Cuenta la historia de una familia extraordinaria, los Madrigal, que viven escondidos en las monta\u00F1as de Colombia, en una casa m\u00E1gica situada en un enclave maravilloso llamado Encanto. La magia de Encanto ha dotado a todos los ni\u00F1os de la familia un don \u00FAnico, desde la s\u00FAper fuerza hasta el poder de curar... Pero se olvid\u00F3 de un miembro de la familia: Mirabel. Cuando \u00E9sta descubre que la magia que rodea Encanto est\u00E1 en peligro, decide que ella, la \u00FAnica Madrigal normal, podr\u00EDa ser la \u00FAltima esperanza de su extraordinaria familia.</p>"
+    },
+    {
+        "id":"0401_005",
+        "title": "Puñales por la Espalda",
+        "img":"../image/movies/0401_005.jpg",
+        "src":"../video/movies/0401_005.mp4",
+        "pub":"../video/preroll/0401.mp4",
+        "poster":"Movie",
+        "plot" : "<p>Cuando el renombrado novelista de misterio Harlan Thrombey (Christopher Plummer) es encontrado muerto en su mansi\u00F3n, justo despu\u00E9s de la celebraci\u00F3n familiar de su 85 cumplea\u00F1os, el inquisitivo y cort\u00E9s detective Benoit Blanc (Daniel Craig) es misteriosamente reclutado para investigar el asunto. Se mover\u00E1 entre una red de pistas falsas y mentiras interesadas para tratar de descubrir la verdad tras la muerte del escritor.</p>"
+    },
+    {
+        "id":"0401_006",
+        "title": "Eternals",
+        "img":"../image/movies/0401_006.jpg",
+        "src":"../video/movies/0401_006.mp4",
+        "pub":"../video/preroll/0401.mp4",
+        "poster":"Movie",
+        "plot" : "<p>Hace millones de a\u00F1os, los seres c\u00F3smicos conocidos como los Celestiales comenzaron a experimentar gen\u00E9ticamente con los humanos. Su intenci\u00F3n era crear individuos superpoderosos que hicieran \u00FAnicamente el bien, pero algo sali\u00F3 mal y aparecieron los Desviantes, destruyendo y creando el caos a su paso. Ambas razas se han enfrentado en una eterna lucha de poder a lo largo de la historia. En medio de esta guerra, Ikaris y Sersi tratar\u00E1n de vivir su propia historia de amor.</p>"
+    },
+    {
+        "id":"0401_007",
+        "title": "Free Guy: tomando el control",
+        "img":"../image/movies/0401_007.jpg",
+        "src":"../video/movies/0401_007.mp4",
+        "pub":"../video/preroll/0401.mp4",
+        "poster":"Movie",
+        "plot" : "<p>Free Guy (Ryan Reynolds) trabaja como cajero de un banco, y es un tipo alegre y solitario al que nada la amarga el d\u00EDa. Incluso si le utilizan como reh\u00E9n durante un atraco a su banco, \u00E9l sigue sonriendo como si nada. Pero un d\u00EDa se da cuenta de que Free City no es exactamente la ciudad que \u00E9l cre\u00EDa. Guy va a descubrir que en realidad es un personaje no jugable dentro de un brutal videojuego.</p>"
+    },
+    {
+        "id":"0401_008",
+        "title": "Ghost In The Shell",
+        "img":"../image/movies/0401_008.jpg",
+        "src":"../video/movies/0401_008.mp4",
+        "pub":"../video/preroll/0401.mp4",
+        "poster":"Movie",
+        "plot" : "<p>En un Jap\u00F3n futurista la joven Motoko Kusanagi (Scarlett Johansson), tambi\u00E9n conocida como 'the Major' Mira Killian, es la l\u00EDder de grupo operativo de \u00E9lite, Secci\u00F3n 9, cuyo objetivo es luchar contra el ciberterrorismo y los cr\u00EDmenes tecnol\u00F3gicos. Al mando de esta unidad de operaciones encubiertas est\u00E1 Aramaki (Takeshi Kitano), y destaca Batou (Pilou Asb\u00E6k), un exmilitar considerado como uno de los agentes m\u00E1s salvajes del grupo. Pero, despu\u00E9s de un peligrosa misi\u00F3n, el cuerpo de Kusanagi queda da\u00F1ado, siendo sometida a una operaci\u00F3n quir\u00FArgica para trasplantar su cerebro en un cuerpo rob\u00F3tico. Este nuevo cuerpo artificial le permitir\u00E1 ser capaz de realizar haza\u00F1as sobrehumanas especialmente requeridas para su trabajo... Basada en la aclamada saga hom\u00F3nima de ciencia ficci\u00F3n.</p>"
+    },
+    {
+        "id":"0401_009",
+        "title": "Godzilla: Rey de los monstruos",
+        "img":"../image/movies/0401_009.jpg",
+        "src":"../video/movies/0401_009.mp4",
+        "pub":"../video/preroll/0401.mp4",
+        "poster":"Movie",
+        "plot" : "<p>Los criptozo\u00F3logos de la agencia Monarch tratan de enfrentrarse a un grupo de enormes monstruos, incluyendo el propio Godzilla. Entre todos intentan resistir a las embestidas de Mothra, Rodan o del \u00FAltimo n\u00E9mesis de la humanidad: King Ghidorah. Estas ancianas criaturas har\u00E1n todo lo posible por sobrevivir, poniendo en riesgo la existencia del ser humano en el planeta.</p>"
+    },
+    {
+        "id":"0401_010",
+        "title": "Rápidos y furiosos: Hobbs & Shaw",
+        "img":"../image/movies/0401_010.jpg",
+        "src":"../video/movies/0401_010.mp4",
+        "pub":"../video/preroll/0401.mp4",
+        "poster":"Movie",
+        "plot" : "<p>Con Dom y Letty de luna de miel, Brian y Mia fuera del juego y el resto de la pandilla exonerada de todo cargo, el equipo est\u00E1 instalado en una vida aparentemente normal. Pero cuando una misteriosa mujer (Theron) seduce a Dom (Diesel) para regresar nuevamente al mundo del crimen, se ve incapaz de rechazar la oportunidad, traicionando as\u00ED a todo el mundo cercano a \u00E9l. A partir de ese momento todos se enfrentar\u00E1n a pruebas como nunca antes hab\u00EDan tenido. Desde las costas de Cuba y las calles de Nueva York hasta las llanuras del mar de Barents en el oc\u00E9ano \u00C1rtico, nuestra fuerza de \u00E9lite recorrer\u00E1 el globo para impedir que un anarquista desencadene el caos en el mundo... y por supuesto para traer de vuelta a casa al hombre que les hizo una familia. </p>"
+    },
+    {
+        "id":"0401_011",
+        "title": "Jojo Rabbit",
+        "img":"../image/movies/0401_011.jpg",
+        "src":"../video/movies/0401_011.mp4",
+        "pub":"../video/preroll/0401.mp4",
+        "poster":"Movie",
+        "plot" : "<p>Jojo \"Rabbit\" Betzler (Roman Griffin Davis) es un solitario ni\u00F1o alem\u00E1n perteneciente a las Juventudes Hitlerianas que ve su mundo puesto patas arriba cuando descubre que su joven madre Rosie (Scarlett Johansson) esconde en su \u00E1tico a una ni\u00F1a jud\u00EDa (Thomasin McKenzie). Con la \u00FAnica ayuda de su mejor amigo imaginario, el mism\u00EDsimo Adolf Hitler (Taika Waititi), Jojo deber\u00E1 afrontar su ciego nacionalismo con las contradicciones de una guerra absurda.</p>"
+    },
+    {
+        "id":"0401_012",
+        "title": "Jungle Cruise",
+        "img":"../image/movies/0401_012.jpg",
+        "src":"../video/movies/0401_012.mp4",
+        "pub":"../video/preroll/0401.mp4",
+        "poster":"Movie",
+        "plot" : "<p>Principios del siglo XX. Frank (Dwayne Johnson) es el carism\u00E1tico capit\u00E1n de una peculiar embarcaci\u00F3n que recorre la selva amaz\u00F3nica. All\u00ED, a pesar de los peligros que el r\u00EDo Amazonas les tiene preparados, Frank llevar\u00E1 en su barco a la cient\u00EDfica Lily Houghton (Emily Blunt) y a su hermano McGregor Houghton (Jack Whitehall). Su misi\u00F3n ser\u00E1 encontrar un \u00E1rbol m\u00EDstico que podr\u00EDa tener poderes curativos. Claro que su objetivo no ser\u00E1 f\u00E1cil, y en su aventura se encontrar\u00E1n con toda clase de dificultades, adem\u00E1s de una expedici\u00F3n alemana que busca tambi\u00E9n este \u00E1rbol con propiedades curativas. Pel\u00EDcula basada en una atracci\u00F3n de Disneylandia.</p>"
+    },
+    {
+        "id":"0401_013",
+        "title": "Jurassic World: El reino caído",
+        "img":"../image/movies/0401_013.jpg",
+        "src":"../video/movies/0401_013.mp4",
+        "pub":"../video/preroll/0401.mp4",
+        "poster":"Movie",
+        "plot" : "<p>Una erupci\u00F3n volc\u00E1nica amenaza a los dinosaurios restantes en la Isla Nublar, donde las criaturas han vagado libremente durante a\u00F1os tras de la desaparici\u00F3n del parque tem\u00E1tico \"Jurassic World\". Claire Dearing, ex gerente del parque, ahora fund\u00F3 el Grupo de Protecci\u00F3n de Dinosaurios, una organizaci\u00F3n dedicada a intentar preservarlos. Cuando a Claire le ofrecen la oportunidad de rescatar algunos ejemplares de la isla, acude a Owen Grady, el ex entrenador de dinosaurios que trabaj\u00F3 en el parque, para que la ayude a evitar la extinci\u00F3n de los dinosaurios... Secuela de \"Jurassic World\". </p>"
+    },
+    {
+        "id":"0401_014",
+        "title": "Luca",
+        "img":"../image/movies/0401_014.jpg",
+        "src":"../video/movies/0401_014.mp4",
+        "pub":"../video/preroll/0401.mp4",
+        "poster":"Movie",
+        "plot" : "<p>La historia se desarrolla en un hermoso pueblo al lado del mar en la Riviera Italiana. Es la del crecimiento de un ni\u00F1o que experimenta un verano inolvidable con helado, pasta e interminables viajes en scooter. Luca comparte estas aventuras con su nuevo mejor amigo, pero toda la diversi\u00F3n se ve amenazada por un gran secreto: es un monstruo marino de otro mundo ubicado justo debajo de la superficie del agua.</p>"
+    },
+    {
+        "id":"0401_015",
+        "title": "Maestras del engaño",
+        "img":"../image/movies/0401_015.jpg",
+        "src":"../video/movies/0401_015.mp4",
+        "pub":"../video/preroll/0401.mp4",
+        "poster":"Movie",
+        "plot" : "<p>Dos artistas del enga\u00F1o, una de clase alta y la otra de los barrios bajos, deciden unirse para timar a los hombres... Remake de la comedia de 1988 'Dirty Rotten Scoundrels'.</p>"
+    },
+    {
+        "id":"0401_016",
+        "title": "Maléfica: Maestra del mal",
+        "img":"../image/movies/0401_016.jpg",
+        "src":"../video/movies/0401_016.mp4",
+        "pub":"../video/preroll/0401.mp4",
+        "poster":"Movie",
+        "plot" : "<p>Tiene lugar varios a\u00F1os despu\u00E9s de los acontecimientos narrados en la primera pel\u00EDcula, y explora la relaci\u00F3n entre Mal\u00E9fica y Aurora y las alianzas que se forman para sobrevivir a las amenazas del m\u00E1gico mundo en el que habitan. Secuela de \"Mal\u00E9fica\" (2014). </p>"
+    },
+    {
+        "id":"0401_017",
+        "title": "Matrix Resurrections",
+        "img":"../image/movies/0401_017.jpg",
+        "src":"../video/movies/0401_017.mp4",
+        "pub":"../video/preroll/0401.mp4",
+        "poster":"Movie",
+        "plot" : "<p>Neo vive una vida normal y corriente en San Francisco mientras su terapeuta le prescribe pastillas azules. Hasta que Morfeo le ofrece la pastilla roja y vuelve a abrir su mente al mundo de Matrix.</p>"
+    },
+    {
+        "id":"0401_018",
+        "title": "Onward",
+        "img":"../image/movies/0401_018.jpg",
+        "src":"../video/movies/0401_018.mp4",
+        "pub":"../video/preroll/0401.mp4",
+        "poster":"Movie",
+        "plot" : "<p>Ambientado en un mundo de fantas\u00EDa suburbana, dos hermanos elfos adolescentes, Ian y Barley Lightfood, se embarcan en una aventura en la que se proponen descubrir si existe a\u00FAn algo de magia en el mundo que les permita pasar un \u00FAltimo d\u00EDa con su padre, que falleci\u00F3 cuando ellos eran a\u00FAn muy peque\u00F1os como para poder recordarlo. </p>"
+    },
+    {
+        "id":"0401_019",
+        "title": "Pokémon: Detective Pikachu",
+        "img":"../image/movies/0401_019.jpg",
+        "src":"../video/movies/0401_019.mp4",
+        "pub":"../video/preroll/0401.mp4",
+        "poster":"Movie",
+        "plot" : "<p>Cuando el gran detective privado Harry Goodman desaparece misteriosamente; Tim, su hijo de 21 a\u00F1os, debe averiguar qu\u00E9 sucedi\u00F3. En la investigaci\u00F3n lo ayuda el antiguo compa\u00F1ero Pok\u00E9mon de Harry, el Detective Pikachu: un super detective adorable y ocurrente que se asombra incluso a s\u00ED mismo. Tim y Pikachu se dan cuenta que incre\u00EDblemente pueden comunicarse, y unen fuerzas en una aventura para develar el misterio enmara\u00F1ado. Mientras buscan pistas en las calles resplandecientes de Ryme City, una vasta metr\u00F3polis moderna donde los humanos y los Pok\u00E9mon comparten un mundo real hiperrealista, encuentran distintos personajes Pok\u00E9mon y descubren un complot impactante que podr\u00EDa destruir la convivencia pac\u00EDfica y amenazar a todo el universo Pok\u00E9mon. </p>"
+    },
+    {
+        "id":"0401_020",
+        "title": "Un pr\u00EDncipe en Nueva York 2",
+        "img":"../image/movies/0401_020.jpg",
+        "src":"../video/movies/0401_020.mp4",
+        "pub":"../video/preroll/0401.mp4",
+        "poster":"Movie",
+        "plot" : "<p>Akeem vuelve a Am\u00E9rica cuando descubre que tiene un hijo que llevaba buscando mucho tiempo, para as\u00ED lograr que se convierta en el rey de Zamunda.</p>"
+    },
+    {
+        "id":"0401_021",
+        "title": "Project Gemini",
+        "img":"../image/movies/0401_021.jpg",
+        "src":"../video/movies/0401_021.mp4",
+        "pub":"../video/preroll/0401.mp4",
+        "poster":"Movie",
+        "plot" : "<p>Una misi\u00F3n espacial es enviada para terraformar un planeta distante. Sin embargo, la misi\u00F3n se encuentra con algo desconocido que tiene su propio plan para el planeta.</p>"
+    },
+    {
+        "id":"0401_022",
+        "title": "Fast & Furious 9",
+        "img":"../image/movies/0401_022.jpg",
+        "src":"../video/movies/0401_022.mp4",
+        "pub":"../video/preroll/0401.mp4",
+        "poster":"Movie",
+        "plot" : "<p>Dom Toretto (Vin Diesel) lleva una vida tranquila con Letty y su hijo, el peque\u00F1o Brian, pero saben que el peligro siempre acecha. Esta vez, esa amenaza obligar\u00E1 a Dom a enfrentarse a los pecados de su pasado si quiere salvar a quienes m\u00E1s quiere. El equipo se vuelve a reunir para impedir un complot a escala mundial, liderado por uno de los asesinos m\u00E1s peligrosos y mejor conductor a los que se han enfrentado; un hombre que adem\u00E1s es el hermano desaparecido de Dom, Jakob (John Cena). Novena entrega de la famosa franquicia.</p>"
+    },
+    {
+        "id":"0401_023",
+        "title": "Raya y el último dragón",
+        "img":"../image/movies/0401_023.jpg",
+        "src":"../video/movies/0401_023.mp4",
+        "pub":"../video/preroll/0401.mp4",
+        "poster":"Movie",
+        "plot" : "<p>En el fant\u00E1stico mundo de Kumandra, humanos y dragones vivieron juntos hace mucho tiempo en perfecta armon\u00EDa. Pero cuando unas fuerzas del mal amenazaron el territorio, los dragones se sacrificaron para salvar a la humanidad. Ahora, 500 a\u00F1os despu\u00E9s, esas mismas fuerzas malignas han regresado y Raya, una guerrera solitaria, tendr\u00E1 que encontrar al \u00FAltimo y legendario drag\u00F3n para reconstruir un mundo destruido y volver a unir a su pueblo.</p>"
+    },
+    {
+        "id":"0401_024",
+        "title": "Shang-Chi Marvell",
+        "img":"../image/movies/0401_024.jpg",
+        "src":"../video/movies/0401_024.mp4",
+        "pub":"../video/preroll/0401.mp4",
+        "poster":"Movie",
+        "plot" : "<p>Adaptaci\u00F3n cinematogr\u00E1fica del h\u00E9roe creado por Steve Englehart y Jim Starlin en 1973, un personaje mitad chino, mitad americano, cuyo caracter\u00EDstico estilo de combate mezclaba kung-fu, nunchacos y armas de fuego.</p>"
+    },
+    {
+        "id":"0401_025",
+        "title": "Shazam",
+        "img":"../image/movies/0401_025.jpg",
+        "src":"../video/movies/0401_025.mp4",
+        "pub":"../video/preroll/0401.mp4",
+        "poster":"Movie",
+        "plot" : "<p>Cuando Billy Batson (Angel), un chaval de acogida de 14 a\u00F1os que ha crecido en las calles, grita la palabra 'SHAZAM!', se convierte en el Superh\u00E9roe adulto Shazam (Levi), por cortes\u00EDa de un antiguo mago. Dentro de un cuerpo musculoso y divino, Shazam esconde un coraz\u00F3n de ni\u00F1o. Pero lo mejor es que en esta versi\u00F3n de adulto consigue realizar todo lo que le gustar\u00EDa hacer a cualquier adolescente con superpoderes: \u00A1Divertirse con ellos! \u00BFVolar? \u00BFTener visi\u00F3n de rayos X? \u00BFDisparar un rayo con las manos? \u00BFSaltarse el examen de sociales? Shazam va a poner a prueba los l\u00EDmites de sus habilidades con la inconsciencia propia de un ni\u00F1o. Pero necesitar\u00E1 dominar r\u00E1pidamente esos poderes para luchar contra las letales fuerzas del mal que controla el Dr. Thaddeus Sivana (Strong).</p>"
+    },
+    {
+        "id":"0401_026",
+        "title": "Sing 2",
+        "img":"../image/movies/0401_026.jpg",
+        "src":"../video/movies/0401_026.mp4",
+        "pub":"../video/preroll/0401.mp4",
+        "poster":"Movie",
+        "plot" : "<p>Buster Moon y sus amigos deben persuadir a la estrella del rock Clay Calloway para que se una a ellos en el estreno de un nuevo espect\u00E1culo.</p>"
+    },
+    {
+        "id":"0401_027",
+        "title": "Sonic",
+        "img":"../image/movies/0401_027.jpg",
+        "src":"../video/movies/0401_027.mp4",
+        "pub":"../video/preroll/0401.mp4",
+        "poster":"Movie",
+        "plot" : "<p></p>"
+    },
+    {
+        "id":"0401_028",
+        "title": "Soul",
+        "img":"../image/movies/0401_028.jpg",
+        "src":"../video/movies/0401_028.mp4",
+        "pub":"../video/preroll/0401.mp4",
+        "poster":"Movie",
+        "plot" : "<p>\u00BFAlguna vez te has preguntado de d\u00F3nde provienen tu pasi\u00F3n, tus sue\u00F1os y tus intereses? \u00BFQu\u00E9 es lo que te hace ser... t\u00FA? Pixar te lleva en un viaje desde las calles de Nueva York a los reinos c\u00F3smicos para descubrir las respuestas a las preguntas m\u00E1s importantes de la vida.</p>"
+    },
+    {
+        "id":"0401_029",
+        "title": "Spider-Man: No Way Home",
+        "img":"../image/movies/0401_029.jpg",
+        "src":"../video/movies/0401_029.mp4",
+        "pub":"../video/preroll/0401.mp4",
+        "poster":"Movie",
+        "plot" : "<p>Por primera vez en la historia cinematogr\u00E1fica de Spider-Man, nuestro h\u00E9roe, vecino y amigo es desenmascarado, y por tanto, ya no es capaz de separar su vida normal de los enormes riesgos que conlleva ser un superh\u00E9roe. Cuando pide ayuda al Doctor Strange, los riesgos pasan a ser a\u00FAn m\u00E1s peligrosos, oblig\u00E1ndole a descubrir lo que realmente significa ser \u00E9l. Secuela de 'Spider-Man: Far From Home'.</p>"
+    },
+    {
+        "id":"0401_030",
+        "title": "Venom: 2",
+        "img":"../image/movies/0401_030.jpg",
+        "src":"../video/movies/0401_030.mp4",
+        "pub":"../video/preroll/0401.mp4",
+        "poster":"Movie",
+        "plot" : "<p>Eddie Brock (Tom Hardy) y su simbionte Venom todav\u00EDa est\u00E1n intentando descubrir c\u00F3mo vivir juntos cuando un preso que est\u00E1 en el corredor de la muerte (Woody Harrelson) se infecta con un simbionte propio.</p>"
+    },
+    {
+        "id":"0401_031",
+        "title": "Viuda Negra",
+        "img":"../image/movies/0401_031.jpg",
+        "src":"../video/movies/0401_031.mp4",
+        "pub":"../video/preroll/0401.mp4",
+        "poster":"Movie",
+        "plot" : "<p>Natasha Romanoff, alias Viuda Negra, se enfrenta a los cap\u00EDtulos m\u00E1s oscuros de su historia cuando surge una peligrosa conspiraci\u00F3n relacionada con su pasado. Perseguida por una fuerza que no se detendr\u00E1 ante nada para acabar con ella, Natasha debe lidiar con su historia como esp\u00EDa y con la estela de relaciones destruidas que dej\u00F3 atr\u00E1s mucho antes de convertirse en Vengadora.</p>"
+    }
+]

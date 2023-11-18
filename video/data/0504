@@ -1,0 +1,47 @@
+[
+	{
+		"id":"0504_001",
+		"img":"../image/series/0504_001.jpg",
+		"plot":"",
+		"poster":"Saint Seiya",
+		"src":"../video/series/serie4/0408_001.mp4",
+		"pub":"../video/preroll/0500.mp4",
+		"title":"Saint Seiya EP1"
+	},
+	{
+		"id":"0504_002",
+		"img":"../image/series/0504_001.jpg",
+		"plot":"",
+		"poster":"Saint Seiya",
+		"src":"../video/series/serie4/0408_002.mp4",
+		"pub":"../video/preroll/0500.mp4",
+		"title":"Saint Seiya EP2"
+    },
+	{
+		"id":"0504_003",
+		"img":"../image/series/0504_001.jpg",
+		"plot":"",
+		"poster":"Saint Seiya",
+		"src":"../video/series/serie4/0408_003.mp4",
+		"pub":"../video/preroll/0500.mp4",
+		"title":"Saint Seiya EP3"
+    },
+	{
+		"id":"0504_004",
+		"img":"../image/series/0504_001.jpg",
+		"plot":"",
+		"poster":"Saint Seiya",
+		"src":"../video/series/serie4/0408_004.mp4",
+		"pub":"../video/preroll/0500.mp4",
+		"title":"Saint Seiya EP4"
+    },
+	{
+		"id":"0504_005",
+		"img":"../image/series/0504_001.jpg",
+		"plot":"",
+		"poster":"Saint Seiya",
+		"src":"../video/series/serie4/0408_005.mp4",
+		"pub":"../video/preroll/0500.mp4",
+		"title":"Saint Seiya EP5"
+    }
+]

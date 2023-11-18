@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="icon" type="image/jpg" href="../../common/images/logo/logo.png">
+    <title>Portal Copetran</title>
+    <link rel="stylesheet" type="text/css" href="../../common/css/bootstrap.css">
+    <link rel="stylesheet" href="../../common/new/css/addmodportal.css">
+    <link rel="stylesheet" href="../css/after_auth.css">
+    <!-- Scripts -->
+    <script src="../../common/js/jquery-2.1.3.min.js"></script>
+    <script src="../../common/js/jquery.hongdian.js"></script>
+    <script src="../../common/new/js/get_cookie.js"></script>
+    <script src="../../common/new/js/uploadPageView.js"></script>
+    <script src="../../common/new/js/clipboard.min.js"></script>
+    <script src="../../common/new/js/after_auth.js"></script>
+</head>
+
+<body>
+    <div class="header">
+        <div class=' header-center'>
+            <img class='logo' src='../../common/images/header_logo.png' />
+        </div>
+    </div>
+    <div id="loader">
+        <div class="spinner"></div>
+    </div>
+    <div id="content" class="container_msm">
+        <div>
+            <h1>CopetranWiFi</h1>
+            <div class="firstText">
+                <h4>Copia y pega este enlace <a href class="url_comp"
+                        data-clipboard-text="http://busconectado.com">busconectado.com</a> en tu Navegador web
+                    y disfruta de películas, series y música sin utilizar tus datos móviles.</h4>
+            </div>
+
+            <div>
+                <button id="authBtn" type="button" class="btn btn-lg btn-success">Conectar</button>
+            </div>
+        </div>
+        <div class="containerPop">
+            <div class="toast" id="toast">
+                <p class="toast-text" style="display: none;">Conectado!</p>
+                <i class="fas fa-close" id="close"></i>
+            </div>
+        </div>
+    </div>
+    <script>
+        var urlComp = document.querySelector('.url_comp');
+
+        urlComp.addEventListener('click', function (event) {
+            event.preventDefault();
+            var clipboard = new ClipboardJS(urlComp);
+            clipboard.on('success', function (e) {
+                e.clearSelection();
+                ClipboardJS.confirm({
+                    text: '¡URL copiada! Haz clic en el botón Conectar y después ponla en tu navegador.',
+                    buttonMessage: 'Aceptar'
+                });
+            });
+        });
+        authBtn = document.getElementById("authBtn");
+        const toast = document.getElementById("toast");
+        const closeBtn = document.getElementById("close");
+
+        function authUser() {
+            //Auth user on any page load
+            console.log("ajax");
+            expireNetFlowMod = 1000;
+            const xhr = new XMLHttpRequest();
+            xhr.open('POST', "../../common/api/acc_auth.php");
+            xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+            xhr.onload = function () {
+                const data = JSON.parse(xhr.responseText);
+                if (data['code'] != 'ok') {
+                    //error on auth
+                    console.log('post failed');
+                    document.querySelector('.error_detail').textContent = 'Network Connect Error';
+                    setTimeout(function () {
+                        window.location.href = '/homePage/web/homePage.html';
+                    }, 5000)
+                } else {
+                    // success auth
+                    toast.classList.add("active");
+                    closeBtn.addEventListener("click", () => {
+                        toast.classList.remove("active");
+                    });
+                    setTimeout(() => {
+                        toast.classList.remove("active");
+                        window.location.href = "/homePage/web/homePage.html"
+                    }, 2000);
+                }
+            };
+            xhr.send('type=1&expireNetFlow=' + expireNetFlowMod);
+            setTimeout(function () {
+                //do something after three seconds
+                //$(".login_container").hideLoading();
+            }, 3000);
+        };
+
+        authBtn.addEventListener("click", authUser);
+        /*var redirect_auth = function (params) {
+            window.location.href = 'video_init.html';
+        }
+        setTimeout(function(){
+            redirect_auth();
+        }, 3000)*/
+        //stops redirecting to intro video prerroll
+        var phoneUser = obtenerCookie("phone");
+        $(function () {
+            pageViewHomeUploadData("01", "after_auth", phoneUser);
+        });
+    </script>
+</body>
+
+</html>

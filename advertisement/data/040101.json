@@ -1,0 +1,33 @@
+{
+    "interval": "5",
+    "img": [
+        {
+            "handler": {},
+            "href": "",
+            "id": "040101_01",
+            "imgsrc": "../../advertisement/image/moviesslide/040101_001.jpg",
+            "title": "PageAd_01"
+        },
+        {
+            "handler": {},
+            "href": "",
+            "id": "040101_02",
+            "imgsrc": "../../advertisement/image/moviesslide/040101_002.jpg",
+            "title": "MoviesPageAd_02"
+        },
+        {
+            "handler": {},
+            "href": "",
+            "id": "040101_03",
+            "imgsrc": "../../advertisement/image/moviesslide/040101_003.jpg",
+            "title": "MoviesPageAd_03"
+        },
+        {
+            "handler": {},
+            "href": "",
+            "id": "040101_04",
+            "imgsrc": "../../advertisement/image/moviesslide/040101_004.jpg",
+            "title": "MoviesPageAd_04"
+        }
+    ]
+}

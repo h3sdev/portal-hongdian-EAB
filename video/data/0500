@@ -1,0 +1,31 @@
+[
+
+	{
+		"id":"0502",
+		"img":"../image/series/0502_001.jpg",
+		"plot":"Friends es una exitosa serie de televisión que sigue la vida de seis amigos en la ciudad de Nueva York. La serie es conocida por su humor, realismo y personajes icónicos interpretados por un talentoso elenco. Friends ha sido elogiada por su capacidad para abordar temas complejos de manera cómica y por su impacto en la cultura popular. La serie es considerada como una de las mejores series de televisión de todos los tiempos y continúa siendo muy popular en todo el mundo.",
+		"poster":"Serie 2",
+		"title":"Friends"
+	},
+	{
+		"id":"0503",
+		"img":"../image/series/0503_001.jpg",
+		"plot":"Futurama es una serie animada de ciencia ficción creada por Matt Groening que sigue las aventuras de Fry, un repartidor de pizza que se despierta mil años en el futuro y se une a la tripulación de Planet Express, viviendo situaciones divertidas y peligrosas junto a la capitana Leela y el robot Bender.",
+		"poster":"Serie 3",
+		"title":"Futurama"
+	},
+	{
+		"id":"0505",
+		"img":"../image/series/0505_001.jpg",
+		"plot":"The Big Bang Theory es una serie de televisión estadounidense que sigue las vidas de cuatro amigos geeks: el físico experimental Leonard, el físico teórico Sheldon, el ingeniero mecánico Howard y el astrofísico Raj. La trama se desarrolla en Pasadena, California, y se centra en sus vidas personales y profesionales, así como en sus relaciones con las mujeres.",
+		"poster":"Serie 5",
+		"title":"The Big Bang Theory"
+	},
+	{
+		"id":"0506",
+		"img":"../image/series/0506_001.jpg",
+		"plot":"Los Simpsons es una famosa serie de televisión animada estadounidense creada por Matt Groening. La serie sigue las aventuras y desventuras de una familia disfuncional llamada los Simpson, que vive en la ficticia ciudad de Springfield. La familia está compuesta por el padre, Homer, una persona un tanto torpe y descuidada; la madre, Marge, una ama de casa dedicada y amorosa; y sus tres hijos, Bart, el travieso y rebelde; Lisa, la inteligente y concienciada, y Maggie, la bebé de la familia.",
+		"poster":"Serie 6",
+		"title":"The Simpsons"
+	}
+]
